@@ -1,12 +1,12 @@
 {
     "pref": {
         "url": "https://www.pref.shiga.lg.jp/file/rss/index.rss",
-        "last": "Wed, 13 Jan 2021 17:00:00 +0900",
+        "last": "Fri, 29 Jan 2021 15:00:00 +0900",
         "word": "新型コロナウイルス"
     },
     "pref_news": {
         "url": "https://www.pref.shiga.lg.jp/file/rss/kensei_koho_e-shinbun_oshirase_index.rss",
-        "last": "Wed, 27 Jan 2021 19:00:00 +0900",
+        "last": "Sat, 30 Jan 2021 18:00:00 +0900",
         "word": "新型コロナウイルス"
     },
     "otsuE": {
@@ -21,7 +21,7 @@
     },
     "kusatu": {
         "url": "https://www.city.kusatsu.shiga.jp/rss_news.xml",
-        "last": "Tue, 12 Jan 2021 00:00:00 GMT",
+        "last": "Fri, 29 Jan 2021 05:00:00 GMT",
         "word": "http://www.city.kusatsu.shiga.jp/fukushikenko/hoken/kansenshou/"
     },
     "nagahama": {
