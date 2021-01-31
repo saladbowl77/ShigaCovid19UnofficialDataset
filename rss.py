@@ -46,28 +46,13 @@ def tweetNewRss(rss,type):
     
     #print(rss.title + '\n' + rss.link + '\n サイト更新日 : ' + uploadDate.strftime('%Y/%m/%d %H:%M:%S'))
 
-    api.update_status(rss.title + '\n' + rss.link + '\n サイト更新日 : ' + uploadDate.strftime('%Y/%m/%d %H:%M:%S'))
+    #api.update_status(rss.title + '\n' + rss.link + '\n サイト更新日 : ' + uploadDate.strftime('%Y/%m/%d %H:%M:%S'))
     
 
 for name in rssArr:
     feed = feedparser.parse(jsonData[name]['url'], response_headers={"content-type": "text/xml; charset=utf-8"})
-
-    first = True
-    for rss in feed.entries:
-        if rss.get('published'):
-            if rss.published > jsonData[name]['last']:
-                if jsonData[name]['word']:
-                    if jsonData[name]['word'][:4] == "http" and jsonData[name]['word'] in rss.link:
-                        tweetNewRss(rss,'published')
-                    elif jsonData[name]['word'] in rss.title:
-                        tweetNewRss(rss,'published')
-                else:
-                    tweetNewRss(rss,'published')
-            if first:
-                jsonData[name]['last'] = rss.published
-                first = False
-        else:
-            print(rss.link, rss.title)
+    for rss in feed.entries[::-1]:
+        if rss.get('published') == None:
             if rss.date > jsonData[name]['last']:
                 if jsonData[name]['word']:
                     if jsonData[name]['word'][:4] == "http" and jsonData[name]['word'] in rss.link:
@@ -76,9 +61,17 @@ for name in rssArr:
                         tweetNewRss(rss,'date')
                 else:
                     tweetNewRss(rss,'date')
-            if first:
-                jsonData[name]['last'] = rss.date
-                first = False
+            jsonData[name]['last'] = rss.date
+        else:
+            if rss.published > jsonData[name]['last']:
+                if jsonData[name]['word']:
+                    if jsonData[name]['word'][:4] == "http" and jsonData[name]['word'] in rss.link:
+                        tweetNewRss(rss,'published')
+                    elif jsonData[name]['word'] in rss.title:
+                        tweetNewRss(rss,'published')
+                else:
+                    tweetNewRss(rss,'published')
+            jsonData[name]['last'] = rss.published
 
 print(jsonData)
 
