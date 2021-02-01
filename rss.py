@@ -1,7 +1,7 @@
 import json #標準ライブラリ
 import csv #標準ライブラリ
 from os.path import join, dirname #標準ライブラリ
-from datetime import datetime
+from datetime import datetime, timezone
 
 import feedparser #pip install feedparser
 import requests #pip install request
@@ -10,6 +10,8 @@ from os import getenv
 from os.path import join, dirname
 from dotenv import load_dotenv
 import tweepy
+
+from dateutil.parser import parse
 
 #環境変数読み込み
 load_dotenv(verbose=True)
@@ -25,53 +27,35 @@ auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_key, access_secret)
 api = tweepy.API(auth, wait_on_rate_limit = True)
 
+def tweetNewRss(rss,rssDate):
+    print(rss.title + '\n' + rss.link + '\n サイト更新日 : ' + str(rssDate))
+
+    #api.update_status(rss.title + '\n' + rss.link + '\n サイト更新日 : ' + uploadDate.strftime('%Y/%m/%d %H:%M:%S'))
+
 #rssのJson取得
 JsonPath = join(dirname(__file__), "datas/rss.json")
 with open(JsonPath) as f:
     jsonData = json.load(f)
 
-rssArr = ["pref","pref_news","otsuE","otsuI","kusatu"]
-
-def tweetNewRss(rss,type):
-    if(type == 'published'):
-        if rss.published[-3:] == "GMT":
-            uploadDate = datetime.strptime(rss.published, '%a, %d %b %Y %H:%M:%S %Z')
-        else:
-            uploadDate = datetime.strptime(rss.published, '%a, %d %b %Y %H:%M:%S %z')
-    elif(type == 'date'):
-        uploadDate = datetime.strptime(rss.date, '%Y-%m-%dT%H:%M:%S+09:00')
-    else:
-        uploadDate = ""
-    
-    
-    #print(rss.title + '\n' + rss.link + '\n サイト更新日 : ' + uploadDate.strftime('%Y/%m/%d %H:%M:%S'))
-
-    #api.update_status(rss.title + '\n' + rss.link + '\n サイト更新日 : ' + uploadDate.strftime('%Y/%m/%d %H:%M:%S'))
-    
+rssArr = ["pref","pref_news","otsuE","otsuI","kusatu","nagahama_emergency","nagahama_news"]
 
 for name in rssArr:
     feed = feedparser.parse(jsonData[name]['url'], response_headers={"content-type": "text/xml; charset=utf-8"})
+    lastDate = parse(str(jsonData[name]['last']))
     for rss in feed.entries[::-1]:
-        if rss.get('published') == None:
-            if rss.date > jsonData[name]['last']:
-                if jsonData[name]['word']:
-                    if jsonData[name]['word'][:4] == "http" and jsonData[name]['word'] in rss.link:
-                        tweetNewRss(rss,'date')
-                    elif jsonData[name]['word'] in rss.title:
-                        tweetNewRss(rss,'date')
-                else:
-                    tweetNewRss(rss,'date')
-            jsonData[name]['last'] = rss.date
+        if rss.get('published'):
+            rssDate = parse(rss.published)
         else:
-            if rss.published > jsonData[name]['last']:
-                if jsonData[name]['word']:
-                    if jsonData[name]['word'][:4] == "http" and jsonData[name]['word'] in rss.link:
-                        tweetNewRss(rss,'published')
-                    elif jsonData[name]['word'] in rss.title:
-                        tweetNewRss(rss,'published')
-                else:
-                    tweetNewRss(rss,'published')
-            jsonData[name]['last'] = rss.published
+            rssDate = parse(rss.date)
+        if rssDate > lastDate:
+            if jsonData[name]['word']:
+                if jsonData[name]['word'][:4] == "http" and jsonData[name]['word'] in rss.link:
+                    tweetNewRss(rss,rssDate)
+                elif jsonData[name]['word'] in rss.title:
+                    tweetNewRss(rss,rssDate)
+            else:
+                tweetNewRss(rss,rssDate)
+    jsonData[name]['last'] = str(rssDate)
 
 print(jsonData)
 
