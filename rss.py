@@ -37,16 +37,16 @@ JsonPath = join(dirname(__file__), "datas/rss.json")
 with open(JsonPath) as f:
     jsonData = json.load(f)
 
-rssArr = ["pref","pref_news","otsuE","otsuI","kusatu"]
+rssArr = ["pref","pref_news","otsuE","otsuI","kusatu","nagahama_emergency","nagahama_news"]
 
 for name in rssArr:
     feed = feedparser.parse(jsonData[name]['url'], response_headers={"content-type": "text/xml; charset=utf-8"})
     lastDate = parse(str(jsonData[name]['last']))
     for rss in feed.entries[::-1]:
-        if rss.get('published') == None:
-            rssDate = parse(rss.date)
-        else:
+        if rss.get('published'):
             rssDate = parse(rss.published)
+        else:
+            rssDate = parse(rss.date)
         if rssDate > lastDate:
             if jsonData[name]['word']:
                 if jsonData[name]['word'][:4] == "http" and jsonData[name]['word'] in rss.link:

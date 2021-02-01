@@ -24,9 +24,14 @@
         "last": "2021-02-01 07:00:00+00:00",
         "word": "http://www.city.kusatsu.shiga.jp/fukushikenko/hoken/kansenshou/"
     },
-    "nagahama": {
+    "nagahama_emergency": {
         "url": "https://www.city.nagahama.lg.jp/rss/rss_emergency.xml",
-        "last": "Thu, 14 Jan 2020 13:19:00 +0900",
+        "last": "2021-02-01 07:00:00+00:00",
+        "word": "新型コロナウィルス感染症"
+    },
+    "nagahama_news": {
+        "url": "https://www.city.nagahama.lg.jp/rss/rss_new.xml",
+        "last": "2021-02-01 19:06:26+09:00",
         "word": "新型コロナウィルス感染症"
     }
 }
