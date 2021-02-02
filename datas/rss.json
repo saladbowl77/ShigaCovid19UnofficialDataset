@@ -1,21 +1,17 @@
 {
     "pref": {
         "url": "https://www.pref.shiga.lg.jp/file/rss/index.rss",
-        "last": "2021-02-01 16:05:00+09:00",
+        "last": "2021-02-02 15:00:00+09:00",
         "word": "新型コロナウイルス"
     },
     "pref_news": {
         "url": "https://www.pref.shiga.lg.jp/file/rss/kensei_koho_e-shinbun_oshirase_index.rss",
-<<<<<<< HEAD
-        "last": "Mon, 01 Feb 2021 18:00:00 +0900",
-=======
-        "last": "2021-02-01 18:00:00+09:00",
->>>>>>> 5f0298d0a5f1544abfa0780cc30185e418c4600d
+        "last": "2021-02-02 15:00:00+09:00",
         "word": "新型コロナウイルス"
     },
     "otsuE": {
         "url": "https://www.city.otsu.lg.jp/cgi-bin/feed.php?dirId=18&includeShortcut=1&ignore=1",
-        "last": "2021-02-01 14:38:58+09:00",
+        "last": "2021-02-02 09:39:29+09:00",
         "word": false
     },
     "otsuI": {
@@ -25,17 +21,17 @@
     },
     "kusatu": {
         "url": "https://www.city.kusatsu.shiga.jp/rss_news.xml",
-        "last": "2021-02-01 07:00:00+00:00",
+        "last": "2021-02-02 04:00:00+00:00",
         "word": "http://www.city.kusatsu.shiga.jp/fukushikenko/hoken/kansenshou/"
     },
     "nagahama_emergency": {
         "url": "https://www.city.nagahama.lg.jp/rss/rss_emergency.xml",
-        "last": "2021-02-01 07:00:00+00:00",
+        "last": "2021-02-02 04:00:00+00:00",
         "word": "新型コロナウィルス感染症"
     },
     "nagahama_news": {
         "url": "https://www.city.nagahama.lg.jp/rss/rss_new.xml",
-        "last": "2021-02-01 19:06:26+09:00",
+        "last": "2021-02-02 13:06:12+09:00",
         "word": "新型コロナウィルス感染症"
     }
 }
