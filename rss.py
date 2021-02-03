@@ -1,7 +1,7 @@
 import json #標準ライブラリ
 import csv #標準ライブラリ
 from os.path import join, dirname #標準ライブラリ
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 
 import feedparser #pip install feedparser
 import requests #pip install request
@@ -22,6 +22,8 @@ consumer_key = getenv("TWITTER_API_KEY")
 consumer_secret= getenv("TWITTER_API_SECRET")
 access_key = getenv("TWITTER_ACCESS_TOKEN")
 access_secret = getenv("TWITTER_ACCESS_TOKEN_SECRET")
+
+JST = timezone(timedelta(hours=+9), 'JST')
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_key, access_secret)
@@ -55,16 +57,15 @@ def tweetNewRss(rss,rssDate,cityNameEN):
     }
     tweetText = cityName[cityNameEN] + "からのお知らせ\n" + rss.title + '\n' + rss.link + '\n サイト更新日 : ' + rssDate.strftime('%Y年%m月%d日 %H時%M分')
     print(tweetText)
-    api.update_status(tweetText)
+    #api.update_status(tweetText)
 
 #rssのJson取得
 JsonPath = join(dirname(__file__), "datas/rss.json")
 with open(JsonPath) as f:
     jsonData = json.load(f)
 
-rssArr = ["pref","pref_news","otsuE","otsuI","kusatu","ritto","yasu","koka","konan","higashiomi","omihachiman","hino","hikone","aisho","toyosato_emergency","toyosato_news","koura","taga_emergency","taga_news","maibara","nagahama_emergency","nagahama_news","takashima"]
-
-for name in rssArr:
+rssArr1 = ["pref","pref_news","otsuE","otsuI","kusatu","ritto","yasu","koka","konan","higashiomi","omihachiman","hino","hikone","aisho","toyosato_emergency","toyosato_news","koura","taga_news","maibara","nagahama_emergency","nagahama_news","takashima"]
+for name in rssArr1:
     cityJsonPathAll = join(dirname(__file__), "datas/rss/all/" + name +".json")
     cityJsonPathCovid = join(dirname(__file__), "datas/rss/covid/" + name +".json")
 
@@ -75,12 +76,17 @@ for name in rssArr:
 
     feed = feedparser.parse(jsonData[name]['url'], response_headers={"content-type": "text/xml; charset=utf-8"})
     lastDate = parse(str(jsonData[name]['last']))
-    for rss in feed.entries[::-1]:
+    nowDate = parse(str(datetime.now(JST)))
+    if name in ["toyosato_emergency","taga_emergency"]:
+        feedsArr = feed.entries
+    else:
+        feedsArr = feed.entries[::-1]
+    for rss in feedsArr:
         if rss.get('published'):
             rssDate = parse(rss.published)
         else:
             rssDate = parse(rss.date)
-        if rssDate > lastDate:
+        if nowDate > rssDate > lastDate:
             if jsonData[name]['word']:
                 if jsonData[name]['word'][:4] == "http" and jsonData[name]['word'] in rss.link:
                     tweetNewRss(rss,rssDate,name)
@@ -92,14 +98,13 @@ for name in rssArr:
                 tweetNewRss(rss,rssDate,name)
                 cityJsonCovid.append({"title":rss.title,"link":rss.link,"date":str(rssDate)})
             cityJsonAll.append({"title":rss.title,"link":rss.link,"date":str(rssDate)})
+            jsonData[name]['last'] = str(rssDate)
         
     with open(cityJsonPathAll, "w") as f:
         json.dump(cityJsonAll, f, indent=4, ensure_ascii=False)
     with open(cityJsonPathCovid, "w") as f:
         json.dump(cityJsonCovid, f, indent=4, ensure_ascii=False)
-    jsonData[name]['last'] = str(rssDate)
 
-print(jsonData)
 
 with open(JsonPath, 'w') as f:
     json.dump(jsonData, f, indent=4, ensure_ascii=False)
