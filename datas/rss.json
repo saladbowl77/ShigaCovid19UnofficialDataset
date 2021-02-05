@@ -1,7 +1,7 @@
 {
     "pref": {
         "url": "https://www.pref.shiga.lg.jp/file/rss/index.rss",
-        "last": "2021-02-05 09:00:00+09:00",
+        "last": "2021-02-05 09:51:00+09:00",
         "word": "新型コロナウイルス"
     },
     "pref_news": {
@@ -11,7 +11,7 @@
     },
     "otsuE": {
         "url": "https://www.city.otsu.lg.jp/cgi-bin/feed.php?dirId=18&includeShortcut=1&ignore=1",
-        "last": "2021-02-04 11:40:59+09:00",
+        "last": "2021-02-05 09:46:49+09:00",
         "word": false
     },
     "otsuI": {
@@ -46,12 +46,12 @@
     },
     "koka": {
         "url": "https://www.city.koka.lg.jp/services/rdf/rss10/1052.xml",
-        "last": "2021-02-05 09:00:00+09:00",
+        "last": "2021-02-05 09:21:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "konan": {
         "url": "https://www.city.shiga-konan.lg.jp/cgi-bin/feed.php?siteNew=1&ignore=1",
-        "last": "2021-02-04 19:30:00+09:00",
+        "last": "2021-02-05 09:47:21+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "higashiomi": {
@@ -61,7 +61,7 @@
     },
     "omihachiman": {
         "url": "https://www.city.omihachiman.lg.jp/cgi-bin/feed.php",
-        "last": "2021-02-04 15:45:32+09:00",
+        "last": "2021-02-05 09:48:17+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "hino": {
@@ -111,7 +111,7 @@
     },
     "takashima": {
         "url": "http://www.city.takashima.lg.jp/www/rss/news.rdf",
-        "last": "2021-02-04 13:40:28+09:00",
+        "last": "2021-02-05 10:01:14+09:00",
         "word": "新型コロナウィルス感染症"
     }
 }
