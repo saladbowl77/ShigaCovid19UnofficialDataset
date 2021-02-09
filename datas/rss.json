@@ -1,7 +1,7 @@
 {
     "pref": {
         "url": "https://www.pref.shiga.lg.jp/file/rss/index.rss",
-        "last": "2021-02-09 08:00:00+09:00",
+        "last": "2021-02-09 09:00:00+09:00",
         "word": "新型コロナウイルス"
     },
     "pref_news": {
@@ -11,7 +11,7 @@
     },
     "otsuE": {
         "url": "https://www.city.otsu.lg.jp/cgi-bin/feed.php?dirId=18&includeShortcut=1&ignore=1",
-        "last": "2021-02-08 11:15:36+09:00",
+        "last": "2021-02-09 09:09:40+09:00",
         "word": false
     },
     "otsuI": {
@@ -56,7 +56,7 @@
     },
     "higashiomi": {
         "url": "https://www.city.higashiomi.shiga.jp/rss/rss_new.xml",
-        "last": "2021-02-08 20:00:01+09:00",
+        "last": "2021-02-09 09:00:01+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "omihachiman": {
@@ -66,17 +66,17 @@
     },
     "hino": {
         "url": "http://www.town.shiga-hino.lg.jp/rss/rss_new.xml",
-        "last": "2021-02-08 14:47:42+09:00",
+        "last": "2021-02-09 09:00:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "hikone": {
         "url": "https://www.city.hikone.lg.jp/cgi-bin/feed.php",
-        "last": "2021-02-08 18:27:30+09:00",
+        "last": "2021-02-09 09:00:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "aisho": {
         "url": "https://www.town.aisho.shiga.jp/cgi-bin/feed.php",
-        "last": "2021-02-08 17:54:33+09:00",
+        "last": "2021-02-09 09:06:13+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "toyosato_emergency": {
@@ -101,7 +101,7 @@
     },
     "taga_news": {
         "url": "https://www.town.taga.lg.jp/rss/rss_new.xml",
-        "last": "2021-02-08 16:10:37+09:00",
+        "last": "2021-02-09 09:11:34+09:00",
         "word": "新型コロナウィルス感染症"
     },
     "maibara": {
@@ -111,7 +111,7 @@
     },
     "takashima": {
         "url": "http://www.city.takashima.lg.jp/www/rss/news.rdf",
-        "last": "2021-02-08 18:57:15+09:00",
+        "last": "2021-02-09 08:41:28+09:00",
         "word": "新型コロナウィルス感染症"
     }
 }
