@@ -1,7 +1,7 @@
 {
     "pref": {
         "url": "https://www.pref.shiga.lg.jp/file/rss/index.rss",
-        "last": "2021-02-10 14:00:00+09:00",
+        "last": "2021-02-10 17:00:00+09:00",
         "word": "新型コロナウイルス"
     },
     "pref_news": {
@@ -31,7 +31,7 @@
     },
     "nagahama_news": {
         "url": "https://www.city.nagahama.lg.jp/rss/rss_new.xml",
-        "last": "2021-02-10 13:00:00+09:00",
+        "last": "2021-02-10 16:30:55+09:00",
         "word": "新型コロナウィルス感染症"
     },
     "ritto": {
@@ -41,7 +41,7 @@
     },
     "yasu": {
         "url": "https://www.city.yasu.lg.jp/feed.xml?type=rss_2.0&dirId=1031&includeShortcut=1&ignore=1",
-        "last": "2021-02-10 05:55:37+00:00",
+        "last": "2021-02-10 08:00:00+00:00",
         "word": "新型コロナウイルス感染症"
     },
     "koka": {
@@ -56,7 +56,7 @@
     },
     "higashiomi": {
         "url": "https://www.city.higashiomi.shiga.jp/rss/rss_new.xml",
-        "last": "2021-02-10 12:00:01+09:00",
+        "last": "2021-02-10 16:40:02+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "omihachiman": {
@@ -66,12 +66,12 @@
     },
     "hino": {
         "url": "http://www.town.shiga-hino.lg.jp/rss/rss_new.xml",
-        "last": "2021-02-09 18:45:42+09:00",
+        "last": "2021-02-10 17:19:45+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "hikone": {
         "url": "https://www.city.hikone.lg.jp/cgi-bin/feed.php",
-        "last": "2021-02-09 19:44:22+09:00",
+        "last": "2021-02-10 17:29:51+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "aisho": {
