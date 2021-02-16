@@ -6,7 +6,7 @@
     },
     "pref_news": {
         "url": "https://www.pref.shiga.lg.jp/file/rss/kensei_koho_e-shinbun_oshirase_index.rss",
-        "last": "2021-02-16 11:09:00+09:00",
+        "last": "2021-02-16 14:00:00+09:00",
         "word": "新型コロナウイルス"
     },
     "otsuE": {
@@ -31,7 +31,7 @@
     },
     "nagahama_news": {
         "url": "https://www.city.nagahama.lg.jp/rss/rss_new.xml",
-        "last": "2021-02-15 09:11:24+09:00",
+        "last": "2021-02-16 13:02:35+09:00",
         "word": "新型コロナウィルス感染症"
     },
     "ritto": {
@@ -41,7 +41,7 @@
     },
     "yasu": {
         "url": "https://www.city.yasu.lg.jp/feed.xml?type=rss_2.0&dirId=1031&includeShortcut=1&ignore=1",
-        "last": "2021-02-16 00:00:00+00:00",
+        "last": "2021-02-16 05:22:16+00:00",
         "word": "新型コロナウイルス感染症"
     },
     "koka": {
