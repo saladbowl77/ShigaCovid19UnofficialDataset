@@ -71,7 +71,7 @@
     },
     "hikone": {
         "url": "https://www.city.hikone.lg.jp/cgi-bin/feed.php",
-        "last": "2021-02-18 09:32:09+09:00",
+        "last": "2021-02-18 19:25:47+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "aisho": {
@@ -111,7 +111,7 @@
     },
     "takashima": {
         "url": "http://www.city.takashima.lg.jp/www/rss/news.rdf",
-        "last": "2021-02-18 08:51:21+09:00",
+        "last": "2021-02-18 18:23:09+09:00",
         "word": "新型コロナウィルス感染症"
     }
 }
