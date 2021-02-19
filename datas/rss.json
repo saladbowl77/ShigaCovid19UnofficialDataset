@@ -31,7 +31,7 @@
     },
     "nagahama_news": {
         "url": "https://www.city.nagahama.lg.jp/rss/rss_new.xml",
-        "last": "2021-02-18 13:02:31+09:00",
+        "last": "2021-02-19 09:00:00+09:00",
         "word": "新型コロナウィルス感染症"
     },
     "ritto": {
@@ -106,7 +106,7 @@
     },
     "maibara": {
         "url": "https://www.city.maibara.lg.jp/cgi-bin/feed.php?type=rss_2.0&siteNew=1",
-        "last": "2021-02-19 08:30:00+09:00",
+        "last": "2021-02-19 11:57:38+09:00",
         "word": "新型コロナウィルス感染症"
     },
     "takashima": {
