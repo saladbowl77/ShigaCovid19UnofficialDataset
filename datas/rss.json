@@ -41,7 +41,7 @@
     },
     "yasu": {
         "url": "https://www.city.yasu.lg.jp/feed.xml?type=rss_2.0&dirId=1031&includeShortcut=1&ignore=1",
-        "last": "2021-02-19 08:00:00+00:00",
+        "last": "2021-02-19 09:00:00+00:00",
         "word": "新型コロナウイルス感染症"
     },
     "koka": {
@@ -61,7 +61,7 @@
     },
     "omihachiman": {
         "url": "https://www.city.omihachiman.lg.jp/cgi-bin/feed.php",
-        "last": "2021-02-19 12:00:00+09:00",
+        "last": "2021-02-19 18:03:59+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "hino": {
@@ -86,7 +86,7 @@
     },
     "toyosato_news": {
         "url": "https://www.town.toyosato.shiga.jp/rss/rss_topics.xml",
-        "last": "2021-02-10 18:30:00+09:00",
+        "last": "2021-02-19 18:00:00+09:00",
         "word": "新型コロナウィルス感染症"
     },
     "koura": {
@@ -111,7 +111,7 @@
     },
     "takashima": {
         "url": "http://www.city.takashima.lg.jp/www/rss/news.rdf",
-        "last": "2021-02-19 08:31:22+09:00",
+        "last": "2021-02-19 17:51:59+09:00",
         "word": "新型コロナウィルス感染症"
     }
 }
