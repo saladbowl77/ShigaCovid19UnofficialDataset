@@ -36,7 +36,7 @@
     },
     "ritto": {
         "url": "http://www.city.ritto.lg.jp/cgi-bin/feed.php?type=rss_2.0&new1=1",
-        "last": "2021-02-15 09:22:17+09:00",
+        "last": "2021-02-19 08:30:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "yasu": {
@@ -61,17 +61,17 @@
     },
     "omihachiman": {
         "url": "https://www.city.omihachiman.lg.jp/cgi-bin/feed.php",
-        "last": "2021-02-18 13:29:38+09:00",
+        "last": "2021-02-19 09:27:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "hino": {
         "url": "http://www.town.shiga-hino.lg.jp/rss/rss_new.xml",
-        "last": "2021-02-18 15:01:58+09:00",
+        "last": "2021-02-19 09:00:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "hikone": {
         "url": "https://www.city.hikone.lg.jp/cgi-bin/feed.php",
-        "last": "2021-02-19 08:00:00+09:00",
+        "last": "2021-02-19 09:20:59+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "aisho": {
@@ -111,7 +111,7 @@
     },
     "takashima": {
         "url": "http://www.city.takashima.lg.jp/www/rss/news.rdf",
-        "last": "2021-02-18 20:26:24+09:00",
+        "last": "2021-02-19 08:31:22+09:00",
         "word": "新型コロナウィルス感染症"
     }
 }
