@@ -11,7 +11,7 @@
     },
     "otsuE": {
         "url": "https://www.city.otsu.lg.jp/cgi-bin/feed.php?dirId=18&includeShortcut=1&ignore=1",
-        "last": "2021-02-19 13:04:47+09:00",
+        "last": "2021-02-22 16:39:27+09:00",
         "word": false
     },
     "otsuI": {
@@ -41,7 +41,7 @@
     },
     "yasu": {
         "url": "https://www.city.yasu.lg.jp/feed.xml?type=rss_2.0&dirId=1031&includeShortcut=1&ignore=1",
-        "last": "2021-02-19 09:00:00+00:00",
+        "last": "2021-02-22 08:20:00+00:00",
         "word": "新型コロナウイルス感染症"
     },
     "koka": {
@@ -51,7 +51,7 @@
     },
     "konan": {
         "url": "https://www.city.shiga-konan.lg.jp/cgi-bin/feed.php?siteNew=1&ignore=1",
-        "last": "2021-02-19 19:30:00+09:00",
+        "last": "2021-02-22 11:20:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "higashiomi": {
@@ -66,12 +66,12 @@
     },
     "hino": {
         "url": "http://www.town.shiga-hino.lg.jp/rss/rss_new.xml",
-        "last": "2021-02-22 09:37:03+09:00",
+        "last": "2021-02-22 16:56:43+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "hikone": {
         "url": "https://www.city.hikone.lg.jp/cgi-bin/feed.php",
-        "last": "2021-02-19 09:20:59+09:00",
+        "last": "2021-02-22 17:09:26+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "aisho": {
