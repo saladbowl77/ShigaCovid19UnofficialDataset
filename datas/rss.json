@@ -6,7 +6,7 @@
     },
     "pref_news": {
         "url": "https://www.pref.shiga.lg.jp/file/rss/kensei_koho_e-shinbun_oshirase_index.rss",
-        "last": "2021-02-24 10:00:00+09:00",
+        "last": "2021-02-24 10:31:00+09:00",
         "word": "新型コロナウイルス"
     },
     "otsuE": {
@@ -51,17 +51,17 @@
     },
     "konan": {
         "url": "https://www.city.shiga-konan.lg.jp/cgi-bin/feed.php?siteNew=1&ignore=1",
-        "last": "2021-02-22 11:20:00+09:00",
+        "last": "2021-02-24 10:51:53+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "higashiomi": {
         "url": "https://www.city.higashiomi.shiga.jp/rss/rss_new.xml",
-        "last": "2021-02-23 00:00:01+09:00",
+        "last": "2021-02-23 18:00:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "omihachiman": {
         "url": "https://www.city.omihachiman.lg.jp/cgi-bin/feed.php",
-        "last": "2021-02-24 08:30:00+09:00",
+        "last": "2021-02-24 11:11:57+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "hino": {
