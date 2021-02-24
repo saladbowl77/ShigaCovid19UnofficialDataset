@@ -31,7 +31,7 @@
     },
     "nagahama_news": {
         "url": "https://www.city.nagahama.lg.jp/rss/rss_new.xml",
-        "last": "2021-02-24 09:18:19+09:00",
+        "last": "2021-02-24 13:18:44+09:00",
         "word": "新型コロナウィルス感染症"
     },
     "ritto": {
@@ -71,12 +71,12 @@
     },
     "hikone": {
         "url": "https://www.city.hikone.lg.jp/cgi-bin/feed.php",
-        "last": "2021-02-24 08:40:00+09:00",
+        "last": "2021-02-24 12:47:39+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "aisho": {
         "url": "https://www.town.aisho.shiga.jp/cgi-bin/feed.php",
-        "last": "2021-02-24 12:00:00+09:00",
+        "last": "2021-02-24 13:00:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "toyosato_emergency": {
