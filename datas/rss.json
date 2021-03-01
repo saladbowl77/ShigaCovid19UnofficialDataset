@@ -71,7 +71,7 @@
     },
     "hikone": {
         "url": "https://www.city.hikone.lg.jp/cgi-bin/feed.php",
-        "last": "2021-03-01 10:44:17+09:00",
+        "last": "2021-03-01 20:03:47+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "aisho": {
@@ -106,12 +106,12 @@
     },
     "maibara": {
         "url": "https://www.city.maibara.lg.jp/cgi-bin/feed.php?type=rss_2.0&siteNew=1",
-        "last": "2021-03-01 09:42:43+09:00",
+        "last": "2021-03-01 20:04:57+09:00",
         "word": "新型コロナウィルス感染症"
     },
     "takashima": {
         "url": "http://www.city.takashima.lg.jp/www/rss/news.rdf",
-        "last": "2021-03-01 09:01:15+09:00",
+        "last": "2021-03-01 19:41:46+09:00",
         "word": "新型コロナウィルス感染症"
     }
 }
