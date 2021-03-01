@@ -1,7 +1,7 @@
 {
     "pref": {
         "url": "https://www.pref.shiga.lg.jp/file/rss/index.rss",
-        "last": "2021-03-01 00:01:00+09:00",
+        "last": "2021-03-01 09:00:00+09:00",
         "word": "新型コロナウイルス"
     },
     "pref_news": {
@@ -21,7 +21,7 @@
     },
     "kusatu": {
         "url": "https://www.city.kusatsu.shiga.jp/rss_news.xml",
-        "last": "2021-02-28 23:00:00+00:00",
+        "last": "2021-03-01 00:00:00+00:00",
         "word": "http://www.city.kusatsu.shiga.jp/fukushikenko/hoken/kansenshou/"
     },
     "nagahama_emergency": {
@@ -41,32 +41,32 @@
     },
     "yasu": {
         "url": "https://www.city.yasu.lg.jp/feed.xml?type=rss_2.0&dirId=1031&includeShortcut=1&ignore=1",
-        "last": "2021-02-28 15:00:00+00:00",
+        "last": "2021-03-01 00:00:00+00:00",
         "word": "新型コロナウイルス感染症"
     },
     "koka": {
         "url": "https://www.city.koka.lg.jp/services/rdf/rss10/1052.xml",
-        "last": "2021-03-01 08:00:00+09:00",
+        "last": "2021-03-01 09:00:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "konan": {
         "url": "https://www.city.shiga-konan.lg.jp/cgi-bin/feed.php?siteNew=1&ignore=1",
-        "last": "2021-03-01 00:00:00+09:00",
+        "last": "2021-03-01 08:30:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "higashiomi": {
         "url": "https://www.city.higashiomi.shiga.jp/rss/rss_new.xml",
-        "last": "2021-03-01 08:00:00+09:00",
+        "last": "2021-03-01 09:00:01+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "omihachiman": {
         "url": "https://www.city.omihachiman.lg.jp/cgi-bin/feed.php",
-        "last": "2021-03-01 00:00:00+09:00",
+        "last": "2021-03-01 08:30:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "hino": {
         "url": "http://www.town.shiga-hino.lg.jp/rss/rss_new.xml",
-        "last": "2021-03-01 00:00:01+09:00",
+        "last": "2021-03-01 08:30:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "hikone": {
@@ -101,7 +101,7 @@
     },
     "taga_news": {
         "url": "https://www.town.taga.lg.jp/rss/rss_new.xml",
-        "last": "2021-02-24 09:03:13+09:00",
+        "last": "2021-03-01 08:30:00+09:00",
         "word": "新型コロナウィルス感染症"
     },
     "maibara": {
@@ -111,7 +111,7 @@
     },
     "takashima": {
         "url": "http://www.city.takashima.lg.jp/www/rss/news.rdf",
-        "last": "2021-03-01 00:01:20+09:00",
+        "last": "2021-03-01 09:01:15+09:00",
         "word": "新型コロナウィルス感染症"
     }
 }
