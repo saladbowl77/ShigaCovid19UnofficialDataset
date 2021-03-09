@@ -6,7 +6,7 @@
     },
     "pref_news": {
         "url": "https://www.pref.shiga.lg.jp/file/rss/kensei_koho_e-shinbun_oshirase_index.rss",
-        "last": "2021-03-09 14:00:00+09:00",
+        "last": "2021-03-09 16:00:00+09:00",
         "word": "新型コロナウイルス"
     },
     "otsuE": {
@@ -31,7 +31,7 @@
     },
     "nagahama_news": {
         "url": "https://www.city.nagahama.lg.jp/rss/rss_new.xml",
-        "last": "2021-03-09 11:04:23+09:00",
+        "last": "2021-03-09 16:14:40+09:00",
         "word": "新型コロナウィルス感染症"
     },
     "ritto": {
@@ -61,7 +61,7 @@
     },
     "omihachiman": {
         "url": "https://www.city.omihachiman.lg.jp/cgi-bin/feed.php",
-        "last": "2021-03-08 11:36:05+09:00",
+        "last": "2021-03-09 15:45:19+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "hino": {
