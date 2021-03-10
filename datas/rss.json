@@ -16,7 +16,7 @@
     },
     "otsuI": {
         "url": "https://www.city.otsu.lg.jp/cgi-bin/feed.php?dirId=19&includeShortcut=1&ignore=1",
-        "last": "2021-03-10 14:51:38+09:00",
+        "last": "2021-03-10 16:06:43+09:00",
         "word": false
     },
     "kusatu": {
@@ -31,7 +31,7 @@
     },
     "nagahama_news": {
         "url": "https://www.city.nagahama.lg.jp/rss/rss_new.xml",
-        "last": "2021-03-10 13:14:38+09:00",
+        "last": "2021-03-10 15:57:37+09:00",
         "word": "新型コロナウィルス感染症"
     },
     "ritto": {
@@ -61,7 +61,7 @@
     },
     "omihachiman": {
         "url": "https://www.city.omihachiman.lg.jp/cgi-bin/feed.php",
-        "last": "2021-03-09 15:45:19+09:00",
+        "last": "2021-03-10 16:16:59+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "hino": {
