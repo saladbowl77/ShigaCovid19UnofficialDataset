@@ -6,7 +6,7 @@
     },
     "pref_news": {
         "url": "https://www.pref.shiga.lg.jp/file/rss/kensei_koho_e-shinbun_oshirase_index.rss",
-        "last": "2021-03-11 10:00:00+09:00",
+        "last": "2021-03-11 18:00:00+09:00",
         "word": "新型コロナウイルス"
     },
     "otsuE": {
@@ -61,7 +61,7 @@
     },
     "omihachiman": {
         "url": "https://www.city.omihachiman.lg.jp/cgi-bin/feed.php",
-        "last": "2021-03-11 17:03:44+09:00",
+        "last": "2021-03-11 17:39:35+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "hino": {
@@ -106,7 +106,7 @@
     },
     "maibara": {
         "url": "https://www.city.maibara.lg.jp/cgi-bin/feed.php?type=rss_2.0&siteNew=1",
-        "last": "2021-03-09 10:33:57+09:00",
+        "last": "2021-03-11 17:39:26+09:00",
         "word": "新型コロナウィルス感染症"
     },
     "takashima": {
