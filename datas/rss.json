@@ -41,7 +41,7 @@
     },
     "yasu": {
         "url": "https://www.city.yasu.lg.jp/feed.xml?type=rss_2.0&dirId=1031&includeShortcut=1&ignore=1",
-        "last": "2021-03-12 00:00:00+00:00",
+        "last": "2021-03-12 08:00:00+00:00",
         "word": "新型コロナウイルス感染症"
     },
     "koka": {
@@ -66,17 +66,17 @@
     },
     "hino": {
         "url": "http://www.town.shiga-hino.lg.jp/rss/rss_new.xml",
-        "last": "2021-03-11 13:18:30+09:00",
+        "last": "2021-03-12 16:54:52+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "hikone": {
         "url": "https://www.city.hikone.lg.jp/cgi-bin/feed.php",
-        "last": "2021-03-12 12:48:10+09:00",
+        "last": "2021-03-12 17:00:07+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "aisho": {
         "url": "https://www.town.aisho.shiga.jp/cgi-bin/feed.php",
-        "last": "2021-03-11 21:47:08+09:00",
+        "last": "2021-03-12 17:18:02+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "toyosato_emergency": {
