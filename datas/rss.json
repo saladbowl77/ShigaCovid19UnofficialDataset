@@ -11,7 +11,7 @@
     },
     "otsuE": {
         "url": "https://www.city.otsu.lg.jp/cgi-bin/feed.php?dirId=18&includeShortcut=1&ignore=1",
-        "last": "2021-03-12 13:32:08+09:00",
+        "last": "2021-03-15 11:11:36+09:00",
         "word": false
     },
     "otsuI": {
@@ -51,7 +51,7 @@
     },
     "konan": {
         "url": "https://www.city.shiga-konan.lg.jp/cgi-bin/feed.php?siteNew=1&ignore=1",
-        "last": "2021-03-11 19:30:00+09:00",
+        "last": "2021-03-15 10:53:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "higashiomi": {
@@ -61,7 +61,7 @@
     },
     "omihachiman": {
         "url": "https://www.city.omihachiman.lg.jp/cgi-bin/feed.php",
-        "last": "2021-03-15 09:05:38+09:00",
+        "last": "2021-03-15 10:59:39+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "hino": {
