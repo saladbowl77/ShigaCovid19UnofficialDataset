@@ -71,12 +71,12 @@
     },
     "hikone": {
         "url": "https://www.city.hikone.lg.jp/cgi-bin/feed.php",
-        "last": "2021-03-18 18:20:07+09:00",
+        "last": "2021-03-18 19:16:32+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "aisho": {
         "url": "https://www.town.aisho.shiga.jp/cgi-bin/feed.php",
-        "last": "2021-03-18 18:18:22+09:00",
+        "last": "2021-03-18 18:46:02+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "toyosato_emergency": {
@@ -111,7 +111,7 @@
     },
     "takashima": {
         "url": "http://www.city.takashima.lg.jp/www/rss/news.rdf",
-        "last": "2021-03-17 16:54:55+09:00",
+        "last": "2021-03-18 18:57:32+09:00",
         "word": "新型コロナウィルス感染症"
     }
 }
