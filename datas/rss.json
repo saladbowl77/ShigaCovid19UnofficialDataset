@@ -1,7 +1,7 @@
 {
     "pref": {
         "url": "https://www.pref.shiga.lg.jp/file/rss/index.rss",
-        "last": "2021-03-19 14:00:00+09:00",
+        "last": "2021-03-19 16:38:00+09:00",
         "word": "新型コロナウイルス"
     },
     "pref_news": {
@@ -41,7 +41,7 @@
     },
     "yasu": {
         "url": "https://www.city.yasu.lg.jp/feed.xml?type=rss_2.0&dirId=1031&includeShortcut=1&ignore=1",
-        "last": "2021-03-18 08:00:00+00:00",
+        "last": "2021-03-19 08:00:00+00:00",
         "word": "新型コロナウイルス感染症"
     },
     "koka": {
@@ -106,7 +106,7 @@
     },
     "maibara": {
         "url": "https://www.city.maibara.lg.jp/cgi-bin/feed.php?type=rss_2.0&siteNew=1",
-        "last": "2021-03-19 15:55:00+09:00",
+        "last": "2021-03-19 16:58:54+09:00",
         "word": "新型コロナウィルス感染症"
     },
     "takashima": {
