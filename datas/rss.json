@@ -1,12 +1,12 @@
 {
     "pref": {
         "url": "https://www.pref.shiga.lg.jp/file/rss/index.rss",
-        "last": "2021-03-22 00:00:00+09:00",
+        "last": "2021-03-22 08:00:00+09:00",
         "word": "新型コロナウイルス"
     },
     "pref_news": {
         "url": "https://www.pref.shiga.lg.jp/file/rss/kensei_koho_e-shinbun_oshirase_index.rss",
-        "last": "2021-03-21 16:30:00+09:00",
+        "last": "2021-03-22 08:00:00+09:00",
         "word": "新型コロナウイルス"
     },
     "otsuE": {
