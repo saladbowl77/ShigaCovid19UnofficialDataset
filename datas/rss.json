@@ -31,7 +31,7 @@
     },
     "nagahama_news": {
         "url": "https://www.city.nagahama.lg.jp/rss/rss_new.xml",
-        "last": "2021-03-23 08:55:09+09:00",
+        "last": "2021-03-23 12:00:40+09:00",
         "word": "新型コロナウィルス感染症"
     },
     "ritto": {
@@ -51,7 +51,7 @@
     },
     "konan": {
         "url": "https://www.city.shiga-konan.lg.jp/cgi-bin/feed.php?siteNew=1&ignore=1",
-        "last": "2021-03-23 11:17:27+09:00",
+        "last": "2021-03-23 11:51:39+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "higashiomi": {
