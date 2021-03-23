@@ -6,7 +6,7 @@
     },
     "pref_news": {
         "url": "https://www.pref.shiga.lg.jp/file/rss/kensei_koho_e-shinbun_oshirase_index.rss",
-        "last": "2021-03-23 10:00:00+09:00",
+        "last": "2021-03-23 13:00:00+09:00",
         "word": "新型コロナウイルス"
     },
     "otsuE": {
@@ -31,7 +31,7 @@
     },
     "nagahama_news": {
         "url": "https://www.city.nagahama.lg.jp/rss/rss_new.xml",
-        "last": "2021-03-23 12:00:40+09:00",
+        "last": "2021-03-23 12:03:08+09:00",
         "word": "新型コロナウィルス感染症"
     },
     "ritto": {
@@ -46,12 +46,12 @@
     },
     "koka": {
         "url": "https://www.city.koka.lg.jp/services/rdf/rss10/1052.xml",
-        "last": "2021-03-22 11:00:00+09:00",
+        "last": "2021-03-23 09:00:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "konan": {
         "url": "https://www.city.shiga-konan.lg.jp/cgi-bin/feed.php?siteNew=1&ignore=1",
-        "last": "2021-03-23 11:51:39+09:00",
+        "last": "2021-03-23 13:14:26+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "higashiomi": {
@@ -111,7 +111,7 @@
     },
     "takashima": {
         "url": "http://www.city.takashima.lg.jp/www/rss/news.rdf",
-        "last": "2021-03-23 08:31:31+09:00",
+        "last": "2021-03-23 12:50:41+09:00",
         "word": "新型コロナウィルス感染症"
     }
 }
