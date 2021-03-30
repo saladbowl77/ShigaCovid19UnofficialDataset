@@ -1,7 +1,7 @@
 {
     "pref": {
         "url": "https://www.pref.shiga.lg.jp/file/rss/index.rss",
-        "last": "2021-03-30 08:00:00+09:00",
+        "last": "2021-03-30 09:00:00+09:00",
         "word": "新型コロナウイルス"
     },
     "pref_news": {
@@ -46,12 +46,12 @@
     },
     "koka": {
         "url": "https://www.city.koka.lg.jp/services/rdf/rss10/1052.xml",
-        "last": "2021-03-29 08:30:00+09:00",
+        "last": "2021-03-29 13:43:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "konan": {
         "url": "https://www.city.shiga-konan.lg.jp/cgi-bin/feed.php?siteNew=1&ignore=1",
-        "last": "2021-03-26 13:11:50+09:00",
+        "last": "2021-03-30 08:47:27+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "higashiomi": {
@@ -111,7 +111,7 @@
     },
     "takashima": {
         "url": "http://www.city.takashima.lg.jp/www/rss/news.rdf",
-        "last": "2021-03-29 19:52:06+09:00",
+        "last": "2021-03-30 08:41:02+09:00",
         "word": "新型コロナウィルス感染症"
     }
 }
