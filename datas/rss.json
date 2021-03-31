@@ -6,7 +6,7 @@
     },
     "pref_news": {
         "url": "https://www.pref.shiga.lg.jp/file/rss/kensei_koho_e-shinbun_oshirase_index.rss",
-        "last": "2021-03-31 10:00:00+09:00",
+        "last": "2021-03-31 13:00:00+09:00",
         "word": "新型コロナウイルス"
     },
     "otsuE": {
@@ -21,7 +21,7 @@
     },
     "kusatu": {
         "url": "https://www.city.kusatsu.shiga.jp/rss_news.xml",
-        "last": "2021-03-31 01:00:00+00:00",
+        "last": "2021-03-31 04:00:00+00:00",
         "word": "http://www.city.kusatsu.shiga.jp/fukushikenko/hoken/kansenshou/"
     },
     "nagahama_emergency": {
@@ -31,7 +31,7 @@
     },
     "nagahama_news": {
         "url": "https://www.city.nagahama.lg.jp/rss/rss_new.xml",
-        "last": "2021-03-31 08:57:56+09:00",
+        "last": "2021-03-31 12:23:05+09:00",
         "word": "新型コロナウィルス感染症"
     },
     "ritto": {
