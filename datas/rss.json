@@ -41,7 +41,7 @@
     },
     "yasu": {
         "url": "https://www.city.yasu.lg.jp/feed.xml?type=rss_2.0&dirId=1031&includeShortcut=1&ignore=1",
-        "last": "2021-04-01 08:15:00+00:00",
+        "last": "2021-04-01 09:57:28+00:00",
         "word": "新型コロナウイルス感染症"
     },
     "koka": {
@@ -76,7 +76,7 @@
     },
     "aisho": {
         "url": "https://www.town.aisho.shiga.jp/cgi-bin/feed.php",
-        "last": "2021-04-01 18:23:23+09:00",
+        "last": "2021-04-01 18:37:57+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "toyosato_emergency": {
@@ -111,7 +111,7 @@
     },
     "takashima": {
         "url": "http://www.city.takashima.lg.jp/www/rss/news.rdf",
-        "last": "2021-04-01 17:56:14+09:00",
+        "last": "2021-04-01 18:49:39+09:00",
         "word": "新型コロナウィルス感染症"
     }
 }
