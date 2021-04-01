@@ -51,7 +51,7 @@
     },
     "konan": {
         "url": "https://www.city.shiga-konan.lg.jp/cgi-bin/feed.php?siteNew=1&ignore=1",
-        "last": "2021-04-01 08:30:00+09:00",
+        "last": "2021-04-01 17:43:48+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "higashiomi": {
@@ -71,12 +71,12 @@
     },
     "hikone": {
         "url": "https://www.city.hikone.lg.jp/cgi-bin/feed.php",
-        "last": "2021-04-01 15:15:00+09:00",
+        "last": "2021-04-01 17:00:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "aisho": {
         "url": "https://www.town.aisho.shiga.jp/cgi-bin/feed.php",
-        "last": "2021-04-01 16:43:26+09:00",
+        "last": "2021-04-01 18:23:23+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "toyosato_emergency": {
@@ -106,12 +106,12 @@
     },
     "maibara": {
         "url": "https://www.city.maibara.lg.jp/cgi-bin/feed.php?type=rss_2.0&siteNew=1",
-        "last": "2021-04-01 08:30:00+09:00",
+        "last": "2021-04-01 18:19:03+09:00",
         "word": "新型コロナウィルス感染症"
     },
     "takashima": {
         "url": "http://www.city.takashima.lg.jp/www/rss/news.rdf",
-        "last": "2021-04-01 08:31:25+09:00",
+        "last": "2021-04-01 17:56:14+09:00",
         "word": "新型コロナウィルス感染症"
     }
 }
