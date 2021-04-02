@@ -56,12 +56,12 @@
     },
     "higashiomi": {
         "url": "https://www.city.higashiomi.shiga.jp/rss/rss_new.xml",
-        "last": "2021-04-01 09:00:02+09:00",
+        "last": "2021-04-02 13:00:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "omihachiman": {
         "url": "https://www.city.omihachiman.lg.jp/cgi-bin/feed.php",
-        "last": "2021-04-02 14:25:04+09:00",
+        "last": "2021-04-02 14:41:54+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "hino": {
@@ -101,7 +101,7 @@
     },
     "taga_news": {
         "url": "https://www.town.taga.lg.jp/rss/rss_new.xml",
-        "last": "2021-04-01 08:30:00+09:00",
+        "last": "2021-04-02 14:41:39+09:00",
         "word": "新型コロナウィルス感染症"
     },
     "maibara": {
