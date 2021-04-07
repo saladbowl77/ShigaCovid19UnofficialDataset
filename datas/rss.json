@@ -41,7 +41,7 @@
     },
     "yasu": {
         "url": "https://www.city.yasu.lg.jp/feed.xml?type=rss_2.0&dirId=1031&includeShortcut=1&ignore=1",
-        "last": "2021-04-06 08:00:00+00:00",
+        "last": "2021-04-07 04:00:00+00:00",
         "word": "新型コロナウイルス感染症"
     },
     "koka": {
@@ -111,7 +111,7 @@
     },
     "takashima": {
         "url": "http://www.city.takashima.lg.jp/www/rss/news.rdf",
-        "last": "2021-04-06 20:49:36+09:00",
+        "last": "2021-04-07 13:14:47+09:00",
         "word": "新型コロナウィルス感染症"
     }
 }
