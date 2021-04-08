@@ -46,7 +46,7 @@
     },
     "koka": {
         "url": "https://www.city.koka.lg.jp/services/rdf/rss10/1052.xml",
-        "last": "2021-04-08 14:00:00+09:00",
+        "last": "2021-04-08 18:00:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "konan": {
@@ -71,12 +71,12 @@
     },
     "hikone": {
         "url": "https://www.city.hikone.lg.jp/cgi-bin/feed.php",
-        "last": "2021-04-08 14:45:55+09:00",
+        "last": "2021-04-08 21:26:43+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "aisho": {
         "url": "https://www.town.aisho.shiga.jp/cgi-bin/feed.php",
-        "last": "2021-04-08 17:40:23+09:00",
+        "last": "2021-04-08 21:15:06+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "toyosato_emergency": {
@@ -111,7 +111,7 @@
     },
     "takashima": {
         "url": "http://www.city.takashima.lg.jp/www/rss/news.rdf",
-        "last": "2021-04-08 08:01:20+09:00",
+        "last": "2021-04-08 20:32:37+09:00",
         "word": "新型コロナウィルス感染症"
     }
 }
