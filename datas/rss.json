@@ -16,7 +16,7 @@
     },
     "otsuI": {
         "url": "https://www.city.otsu.lg.jp/cgi-bin/feed.php?dirId=19&includeShortcut=1&ignore=1",
-        "last": "2021-04-08 11:16:35+09:00",
+        "last": "2021-04-09 19:36:46+09:00",
         "word": false
     },
     "kusatu": {
@@ -51,7 +51,7 @@
     },
     "konan": {
         "url": "https://www.city.shiga-konan.lg.jp/cgi-bin/feed.php?siteNew=1&ignore=1",
-        "last": "2021-04-09 00:00:00+09:00",
+        "last": "2021-04-09 19:35:17+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "higashiomi": {
@@ -76,7 +76,7 @@
     },
     "aisho": {
         "url": "https://www.town.aisho.shiga.jp/cgi-bin/feed.php",
-        "last": "2021-04-09 18:05:02+09:00",
+        "last": "2021-04-09 19:39:57+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "toyosato_emergency": {
