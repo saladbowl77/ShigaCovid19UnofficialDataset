@@ -41,7 +41,7 @@
     },
     "yasu": {
         "url": "https://www.city.yasu.lg.jp/feed.xml?type=rss_2.0&dirId=1031&includeShortcut=1&ignore=1",
-        "last": "2021-04-09 08:00:00+00:00",
+        "last": "2021-04-09 09:00:00+00:00",
         "word": "新型コロナウイルス感染症"
     },
     "koka": {
@@ -76,7 +76,7 @@
     },
     "aisho": {
         "url": "https://www.town.aisho.shiga.jp/cgi-bin/feed.php",
-        "last": "2021-04-09 14:17:20+09:00",
+        "last": "2021-04-09 18:05:02+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "toyosato_emergency": {
