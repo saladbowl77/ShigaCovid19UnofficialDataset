@@ -1,7 +1,7 @@
 {
     "pref": {
         "url": "https://www.pref.shiga.lg.jp/file/rss/index.rss",
-        "last": "2021-04-12 17:09:00+09:00",
+        "last": "2021-04-13 09:00:00+09:00",
         "word": "新型コロナウイルス"
     },
     "pref_news": {
@@ -51,7 +51,7 @@
     },
     "konan": {
         "url": "https://www.city.shiga-konan.lg.jp/cgi-bin/feed.php?siteNew=1&ignore=1",
-        "last": "2021-04-12 09:09:57+09:00",
+        "last": "2021-04-13 09:25:08+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "higashiomi": {
