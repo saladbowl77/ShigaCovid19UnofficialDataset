@@ -6,7 +6,7 @@
     },
     "pref_news": {
         "url": "https://www.pref.shiga.lg.jp/file/rss/kensei_koho_e-shinbun_oshirase_index.rss",
-        "last": "2021-04-14 11:00:00+09:00",
+        "last": "2021-04-14 14:00:00+09:00",
         "word": "新型コロナウイルス"
     },
     "otsuE": {
@@ -61,7 +61,7 @@
     },
     "omihachiman": {
         "url": "https://www.city.omihachiman.lg.jp/cgi-bin/feed.php",
-        "last": "2021-04-14 10:46:37+09:00",
+        "last": "2021-04-14 13:50:15+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "hino": {
@@ -71,12 +71,12 @@
     },
     "hikone": {
         "url": "https://www.city.hikone.lg.jp/cgi-bin/feed.php",
-        "last": "2021-04-14 11:31:26+09:00",
+        "last": "2021-04-14 13:39:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "aisho": {
         "url": "https://www.town.aisho.shiga.jp/cgi-bin/feed.php",
-        "last": "2021-04-14 10:29:59+09:00",
+        "last": "2021-04-14 14:16:36+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "toyosato_emergency": {
@@ -91,7 +91,7 @@
     },
     "koura": {
         "url": "http://www.kouratown.jp/feed.xml?type=rss_2.0&new1=1",
-        "last": "2021-04-12 09:15:22+00:00",
+        "last": "2021-04-14 05:01:00+00:00",
         "word": "新型コロナウィルス感染症"
     },
     "taga_emergency": {
