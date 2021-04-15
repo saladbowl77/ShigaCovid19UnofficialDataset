@@ -61,7 +61,7 @@
     },
     "omihachiman": {
         "url": "https://www.city.omihachiman.lg.jp/cgi-bin/feed.php",
-        "last": "2021-04-15 16:48:57+09:00",
+        "last": "2021-04-15 17:44:39+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "hino": {
@@ -76,7 +76,7 @@
     },
     "aisho": {
         "url": "https://www.town.aisho.shiga.jp/cgi-bin/feed.php",
-        "last": "2021-04-15 16:42:50+09:00",
+        "last": "2021-04-15 18:08:33+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "toyosato_emergency": {
@@ -111,7 +111,7 @@
     },
     "takashima": {
         "url": "http://www.city.takashima.lg.jp/www/rss/news.rdf",
-        "last": "2021-04-15 17:12:13+09:00",
+        "last": "2021-04-15 17:52:42+09:00",
         "word": "新型コロナウィルス感染症"
     }
 }
