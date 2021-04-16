@@ -21,7 +21,7 @@
     },
     "kusatu": {
         "url": "https://www.city.kusatsu.shiga.jp/rss_news.xml",
-        "last": "2021-04-16 07:00:00+00:00",
+        "last": "2021-04-16 09:00:00+00:00",
         "word": "http://www.city.kusatsu.shiga.jp/fukushikenko/hoken/kansenshou/"
     },
     "nagahama_emergency": {
@@ -56,7 +56,7 @@
     },
     "higashiomi": {
         "url": "https://www.city.higashiomi.shiga.jp/rss/rss_new.xml",
-        "last": "2021-04-16 15:12:04+09:00",
+        "last": "2021-04-16 18:44:03+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "omihachiman": {
@@ -66,7 +66,7 @@
     },
     "hino": {
         "url": "http://www.town.shiga-hino.lg.jp/rss/rss_new.xml",
-        "last": "2021-04-16 08:36:45+09:00",
+        "last": "2021-04-16 19:09:48+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "hikone": {
@@ -76,7 +76,7 @@
     },
     "aisho": {
         "url": "https://www.town.aisho.shiga.jp/cgi-bin/feed.php",
-        "last": "2021-04-16 17:37:46+09:00",
+        "last": "2021-04-16 18:36:55+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "toyosato_emergency": {
@@ -111,7 +111,7 @@
     },
     "takashima": {
         "url": "http://www.city.takashima.lg.jp/www/rss/news.rdf",
-        "last": "2021-04-15 17:52:42+09:00",
+        "last": "2021-04-16 18:58:55+09:00",
         "word": "新型コロナウィルス感染症"
     }
 }
