@@ -1,7 +1,7 @@
 {
     "pref": {
         "url": "https://www.pref.shiga.lg.jp/file/rss/index.rss",
-        "last": "2021-04-16 15:28:00+09:00",
+        "last": "2021-04-19 00:00:00+09:00",
         "word": "新型コロナウイルス"
     },
     "pref_news": {
@@ -31,7 +31,7 @@
     },
     "nagahama_news": {
         "url": "https://www.city.nagahama.lg.jp/rss/rss_new.xml",
-        "last": "2021-04-16 20:56:45+09:00",
+        "last": "2021-04-19 00:00:00+09:00",
         "word": "新型コロナウィルス感染症"
     },
     "ritto": {
