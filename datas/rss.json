@@ -21,7 +21,7 @@
     },
     "kusatu": {
         "url": "https://www.city.kusatsu.shiga.jp/rss_news.xml",
-        "last": "2021-04-19 04:00:00+00:00",
+        "last": "2021-04-19 05:00:00+00:00",
         "word": "http://www.city.kusatsu.shiga.jp/fukushikenko/hoken/kansenshou/"
     },
     "nagahama_emergency": {
@@ -56,7 +56,7 @@
     },
     "higashiomi": {
         "url": "https://www.city.higashiomi.shiga.jp/rss/rss_new.xml",
-        "last": "2021-04-19 12:20:21+09:00",
+        "last": "2021-04-19 13:41:13+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "omihachiman": {
@@ -106,7 +106,7 @@
     },
     "maibara": {
         "url": "https://www.city.maibara.lg.jp/cgi-bin/feed.php?type=rss_2.0&siteNew=1",
-        "last": "2021-04-19 08:52:03+09:00",
+        "last": "2021-04-19 14:18:20+09:00",
         "word": "新型コロナウィルス感染症"
     },
     "takashima": {
