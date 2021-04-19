@@ -11,7 +11,7 @@
     },
     "otsuE": {
         "url": "https://www.city.otsu.lg.jp/cgi-bin/feed.php?dirId=18&includeShortcut=1&ignore=1",
-        "last": "2021-04-16 10:18:01+09:00",
+        "last": "2021-04-19 12:03:01+09:00",
         "word": false
     },
     "otsuI": {
@@ -31,7 +31,7 @@
     },
     "nagahama_news": {
         "url": "https://www.city.nagahama.lg.jp/rss/rss_new.xml",
-        "last": "2021-04-19 09:09:25+09:00",
+        "last": "2021-04-19 12:00:00+09:00",
         "word": "新型コロナウィルス感染症"
     },
     "ritto": {
@@ -46,7 +46,7 @@
     },
     "koka": {
         "url": "https://www.city.koka.lg.jp/services/rdf/rss10/1052.xml",
-        "last": "2021-04-18 18:00:00+09:00",
+        "last": "2021-04-19 11:49:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "konan": {
@@ -56,17 +56,17 @@
     },
     "higashiomi": {
         "url": "https://www.city.higashiomi.shiga.jp/rss/rss_new.xml",
-        "last": "2021-04-16 18:44:03+09:00",
+        "last": "2021-04-19 12:20:21+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "omihachiman": {
         "url": "https://www.city.omihachiman.lg.jp/cgi-bin/feed.php",
-        "last": "2021-04-19 08:30:00+09:00",
+        "last": "2021-04-19 11:48:10+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "hino": {
         "url": "http://www.town.shiga-hino.lg.jp/rss/rss_new.xml",
-        "last": "2021-04-19 09:04:10+09:00",
+        "last": "2021-04-19 12:14:07+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "hikone": {
