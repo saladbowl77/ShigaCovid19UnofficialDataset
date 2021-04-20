@@ -16,7 +16,7 @@
     },
     "otsuI": {
         "url": "https://www.city.otsu.lg.jp/cgi-bin/feed.php?dirId=19&includeShortcut=1&ignore=1",
-        "last": "2021-04-20 14:38:27+09:00",
+        "last": "2021-04-20 17:22:46+09:00",
         "word": false
     },
     "kusatu": {
@@ -41,12 +41,12 @@
     },
     "yasu": {
         "url": "https://www.city.yasu.lg.jp/feed.xml?type=rss_2.0&dirId=1031&includeShortcut=1&ignore=1",
-        "last": "2021-04-19 08:00:00+00:00",
+        "last": "2021-04-20 08:00:00+00:00",
         "word": "新型コロナウイルス感染症"
     },
     "koka": {
         "url": "https://www.city.koka.lg.jp/services/rdf/rss10/1052.xml",
-        "last": "2021-04-19 19:34:00+09:00",
+        "last": "2021-04-20 16:36:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "konan": {
