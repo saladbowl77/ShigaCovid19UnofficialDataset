@@ -1,12 +1,12 @@
 {
     "pref": {
         "url": "https://www.pref.shiga.lg.jp/file/rss/index.rss",
-        "last": "2021-04-27 14:00:00+09:00",
+        "last": "2021-04-27 15:40:00+09:00",
         "word": "新型コロナウイルス"
     },
     "pref_news": {
         "url": "https://www.pref.shiga.lg.jp/file/rss/kensei_koho_e-shinbun_oshirase_index.rss",
-        "last": "2021-04-27 09:00:00+09:00",
+        "last": "2021-04-27 15:57:00+09:00",
         "word": "新型コロナウイルス"
     },
     "otsuE": {
@@ -36,7 +36,7 @@
     },
     "ritto": {
         "url": "http://www.city.ritto.lg.jp/cgi-bin/feed.php?type=rss_2.0&new1=1",
-        "last": "2021-04-08 08:30:00+09:00",
+        "last": "2021-04-27 15:00:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "yasu": {
@@ -71,7 +71,7 @@
     },
     "hikone": {
         "url": "https://www.city.hikone.lg.jp/cgi-bin/feed.php",
-        "last": "2021-04-27 14:06:22+09:00",
+        "last": "2021-04-27 16:00:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "aisho": {
