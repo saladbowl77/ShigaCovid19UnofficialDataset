@@ -1,7 +1,7 @@
 {
     "pref": {
         "url": "https://www.pref.shiga.lg.jp/file/rss/index.rss",
-        "last": "2021-04-28 08:00:00+09:00",
+        "last": "2021-04-28 09:00:00+09:00",
         "word": "新型コロナウイルス"
     },
     "pref_news": {
@@ -36,7 +36,7 @@
     },
     "ritto": {
         "url": "http://www.city.ritto.lg.jp/cgi-bin/feed.php?type=rss_2.0&new1=1",
-        "last": "2021-04-27 15:00:00+09:00",
+        "last": "2021-04-28 09:11:05+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "yasu": {
@@ -51,7 +51,7 @@
     },
     "konan": {
         "url": "https://www.city.shiga-konan.lg.jp/cgi-bin/feed.php?siteNew=1&ignore=1",
-        "last": "2021-04-27 15:00:00+09:00",
+        "last": "2021-04-28 08:50:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "higashiomi": {
@@ -61,12 +61,12 @@
     },
     "omihachiman": {
         "url": "https://www.city.omihachiman.lg.jp/cgi-bin/feed.php",
-        "last": "2021-04-27 08:30:00+09:00",
+        "last": "2021-04-28 08:30:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "hino": {
         "url": "http://www.town.shiga-hino.lg.jp/rss/rss_new.xml",
-        "last": "2021-04-27 21:39:07+09:00",
+        "last": "2021-04-28 09:00:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "hikone": {
@@ -86,7 +86,7 @@
     },
     "toyosato_news": {
         "url": "https://www.town.toyosato.shiga.jp/rss/rss_topics.xml",
-        "last": "2021-04-24 18:00:00+09:00",
+        "last": "2021-04-28 08:30:00+09:00",
         "word": "新型コロナウィルス感染症"
     },
     "koura": {
