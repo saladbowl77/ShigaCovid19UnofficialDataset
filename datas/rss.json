@@ -76,7 +76,7 @@
     },
     "aisho": {
         "url": "https://www.town.aisho.shiga.jp/cgi-bin/feed.php",
-        "last": "2021-04-28 19:15:00+09:00",
+        "last": "2021-04-28 20:09:03+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "toyosato_emergency": {
@@ -111,7 +111,7 @@
     },
     "takashima": {
         "url": "http://www.city.takashima.lg.jp/www/rss/news.rdf",
-        "last": "2021-04-27 22:15:26+09:00",
+        "last": "2021-04-28 19:43:27+09:00",
         "word": "新型コロナウィルス感染症"
     }
 }
