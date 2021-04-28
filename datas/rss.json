@@ -16,7 +16,7 @@
     },
     "otsuI": {
         "url": "https://www.city.otsu.lg.jp/cgi-bin/feed.php?dirId=19&includeShortcut=1&ignore=1",
-        "last": "2021-04-28 14:28:43+09:00",
+        "last": "2021-04-28 17:51:14+09:00",
         "word": false
     },
     "kusatu": {
@@ -41,7 +41,7 @@
     },
     "yasu": {
         "url": "https://www.city.yasu.lg.jp/feed.xml?type=rss_2.0&dirId=1031&includeShortcut=1&ignore=1",
-        "last": "2021-04-27 08:00:00+00:00",
+        "last": "2021-04-28 09:00:00+00:00",
         "word": "新型コロナウイルス感染症"
     },
     "koka": {
@@ -56,7 +56,7 @@
     },
     "higashiomi": {
         "url": "https://www.city.higashiomi.shiga.jp/rss/rss_new.xml",
-        "last": "2021-04-28 16:13:09+09:00",
+        "last": "2021-04-28 17:00:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "omihachiman": {
