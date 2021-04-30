@@ -31,7 +31,7 @@
     },
     "nagahama_news": {
         "url": "https://www.city.nagahama.lg.jp/rss/rss_new.xml",
-        "last": "2021-04-30 09:00:00+09:00",
+        "last": "2021-04-30 10:56:23+09:00",
         "word": "新型コロナウィルス感染症"
     },
     "ritto": {
@@ -46,12 +46,12 @@
     },
     "koka": {
         "url": "https://www.city.koka.lg.jp/services/rdf/rss10/1052.xml",
-        "last": "2021-04-30 09:00:00+09:00",
+        "last": "2021-04-30 11:00:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "konan": {
         "url": "https://www.city.shiga-konan.lg.jp/cgi-bin/feed.php?siteNew=1&ignore=1",
-        "last": "2021-04-30 08:50:00+09:00",
+        "last": "2021-04-30 11:21:16+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "higashiomi": {
@@ -111,7 +111,7 @@
     },
     "takashima": {
         "url": "http://www.city.takashima.lg.jp/www/rss/news.rdf",
-        "last": "2021-04-30 08:31:21+09:00",
+        "last": "2021-04-30 10:47:33+09:00",
         "word": "新型コロナウィルス感染症"
     }
 }
