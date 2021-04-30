@@ -1,7 +1,7 @@
 {
     "pref": {
         "url": "https://www.pref.shiga.lg.jp/file/rss/index.rss",
-        "last": "2021-04-30 10:00:00+09:00",
+        "last": "2021-04-30 15:00:00+09:00",
         "word": "新型コロナウイルス"
     },
     "pref_news": {
@@ -11,7 +11,7 @@
     },
     "otsuE": {
         "url": "https://www.city.otsu.lg.jp/cgi-bin/feed.php?dirId=18&includeShortcut=1&ignore=1",
-        "last": "2021-04-30 11:42:08+09:00",
+        "last": "2021-04-30 15:18:41+09:00",
         "word": false
     },
     "otsuI": {
@@ -21,7 +21,7 @@
     },
     "kusatu": {
         "url": "https://www.city.kusatsu.shiga.jp/rss_news.xml",
-        "last": "2021-04-30 03:00:00+00:00",
+        "last": "2021-04-30 06:00:00+00:00",
         "word": "http://www.city.kusatsu.shiga.jp/fukushikenko/hoken/kansenshou/"
     },
     "nagahama_emergency": {
@@ -71,12 +71,12 @@
     },
     "hikone": {
         "url": "https://www.city.hikone.lg.jp/cgi-bin/feed.php",
-        "last": "2021-04-30 12:19:02+09:00",
+        "last": "2021-04-30 15:05:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "aisho": {
         "url": "https://www.town.aisho.shiga.jp/cgi-bin/feed.php",
-        "last": "2021-04-30 14:26:11+09:00",
+        "last": "2021-04-30 14:54:49+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "toyosato_emergency": {
