@@ -1,12 +1,12 @@
 {
     "pref": {
         "url": "https://www.pref.shiga.lg.jp/file/rss/index.rss",
-        "last": "2021-05-11 10:00:00+09:00",
+        "last": "2021-05-11 14:12:00+09:00",
         "word": "新型コロナウイルス"
     },
     "pref_news": {
         "url": "https://www.pref.shiga.lg.jp/file/rss/kensei_koho_e-shinbun_oshirase_index.rss",
-        "last": "2021-05-11 13:07:00+09:00",
+        "last": "2021-05-11 13:15:00+09:00",
         "word": "新型コロナウイルス"
     },
     "otsuE": {
@@ -76,7 +76,7 @@
     },
     "aisho": {
         "url": "https://www.town.aisho.shiga.jp/cgi-bin/feed.php",
-        "last": "2021-05-11 13:15:39+09:00",
+        "last": "2021-05-11 14:16:31+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "toyosato_emergency": {
@@ -101,7 +101,7 @@
     },
     "taga_news": {
         "url": "https://www.town.taga.lg.jp/rss/rss_new.xml",
-        "last": "2021-05-10 08:30:00+09:00",
+        "last": "2021-05-11 14:00:10+09:00",
         "word": "新型コロナウィルス感染症"
     },
     "maibara": {
