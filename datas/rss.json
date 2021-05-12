@@ -51,7 +51,7 @@
     },
     "konan": {
         "url": "https://www.city.shiga-konan.lg.jp/cgi-bin/feed.php?siteNew=1&ignore=1",
-        "last": "2021-05-12 10:16:36+09:00",
+        "last": "2021-05-12 13:50:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "higashiomi": {
@@ -71,12 +71,12 @@
     },
     "hikone": {
         "url": "https://www.city.hikone.lg.jp/cgi-bin/feed.php",
-        "last": "2021-05-12 13:29:59+09:00",
+        "last": "2021-05-12 14:18:52+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "aisho": {
         "url": "https://www.town.aisho.shiga.jp/cgi-bin/feed.php",
-        "last": "2021-05-12 08:07:29+09:00",
+        "last": "2021-05-12 13:57:54+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "toyosato_emergency": {
