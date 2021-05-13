@@ -6,7 +6,7 @@
     },
     "pref_news": {
         "url": "https://www.pref.shiga.lg.jp/file/rss/kensei_koho_e-shinbun_oshirase_index.rss",
-        "last": "2021-05-13 17:00:00+09:00",
+        "last": "2021-05-13 20:15:00+09:00",
         "word": "新型コロナウイルス"
     },
     "otsuE": {
@@ -46,7 +46,7 @@
     },
     "koka": {
         "url": "https://www.city.koka.lg.jp/services/rdf/rss10/1052.xml",
-        "last": "2021-05-13 16:24:00+09:00",
+        "last": "2021-05-13 19:00:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "konan": {
@@ -101,7 +101,7 @@
     },
     "taga_news": {
         "url": "https://www.town.taga.lg.jp/rss/rss_new.xml",
-        "last": "2021-05-13 17:25:12+09:00",
+        "last": "2021-05-13 21:10:24+09:00",
         "word": "新型コロナウィルス感染症"
     },
     "maibara": {
@@ -111,7 +111,7 @@
     },
     "takashima": {
         "url": "http://www.city.takashima.lg.jp/www/rss/news.rdf",
-        "last": "2021-05-12 19:05:47+09:00",
+        "last": "2021-05-13 20:26:06+09:00",
         "word": "新型コロナウィルス感染症"
     }
 }
