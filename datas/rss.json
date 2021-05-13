@@ -21,7 +21,7 @@
     },
     "kusatu": {
         "url": "https://www.city.kusatsu.shiga.jp/rss_news.xml",
-        "last": "2021-05-12 06:00:00+00:00",
+        "last": "2021-05-13 08:00:00+00:00",
         "word": "http://www.city.kusatsu.shiga.jp/fukushikenko/hoken/kansenshou/"
     },
     "nagahama_emergency": {
@@ -41,12 +41,12 @@
     },
     "yasu": {
         "url": "https://www.city.yasu.lg.jp/feed.xml?type=rss_2.0&dirId=1031&includeShortcut=1&ignore=1",
-        "last": "2021-05-12 23:44:20+00:00",
+        "last": "2021-05-13 08:00:00+00:00",
         "word": "新型コロナウイルス感染症"
     },
     "koka": {
         "url": "https://www.city.koka.lg.jp/services/rdf/rss10/1052.xml",
-        "last": "2021-05-13 09:00:00+09:00",
+        "last": "2021-05-13 16:24:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "konan": {
@@ -56,17 +56,17 @@
     },
     "higashiomi": {
         "url": "https://www.city.higashiomi.shiga.jp/rss/rss_new.xml",
-        "last": "2021-05-12 20:00:00+09:00",
+        "last": "2021-05-13 12:00:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "omihachiman": {
         "url": "https://www.city.omihachiman.lg.jp/cgi-bin/feed.php",
-        "last": "2021-05-13 12:00:00+09:00",
+        "last": "2021-05-13 17:16:58+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "hino": {
         "url": "http://www.town.shiga-hino.lg.jp/rss/rss_new.xml",
-        "last": "2021-05-12 21:12:00+09:00",
+        "last": "2021-05-13 16:23:27+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "hikone": {
