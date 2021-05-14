@@ -1,7 +1,7 @@
 {
     "pref": {
         "url": "https://www.pref.shiga.lg.jp/file/rss/index.rss",
-        "last": "2021-05-14 00:00:00+09:00",
+        "last": "2021-05-14 08:00:00+09:00",
         "word": "新型コロナウイルス"
     },
     "pref_news": {
@@ -61,7 +61,7 @@
     },
     "omihachiman": {
         "url": "https://www.city.omihachiman.lg.jp/cgi-bin/feed.php",
-        "last": "2021-05-13 17:34:41+09:00",
+        "last": "2021-05-13 21:00:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "hino": {
