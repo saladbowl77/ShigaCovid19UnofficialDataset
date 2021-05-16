@@ -41,7 +41,7 @@
     },
     "yasu": {
         "url": "https://www.city.yasu.lg.jp/feed.xml?type=rss_2.0&dirId=1031&includeShortcut=1&ignore=1",
-        "last": "2021-05-14 12:23:26+00:00",
+        "last": "2021-05-16 00:00:00+00:00",
         "word": "新型コロナウイルス感染症"
     },
     "koka": {
@@ -51,7 +51,7 @@
     },
     "konan": {
         "url": "https://www.city.shiga-konan.lg.jp/cgi-bin/feed.php?siteNew=1&ignore=1",
-        "last": "2021-05-15 13:46:23+09:00",
+        "last": "2021-05-15 19:00:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "higashiomi": {
