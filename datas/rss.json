@@ -41,7 +41,7 @@
     },
     "yasu": {
         "url": "https://www.city.yasu.lg.jp/feed.xml?type=rss_2.0&dirId=1031&includeShortcut=1&ignore=1",
-        "last": "2021-05-17 02:48:41+00:00",
+        "last": "2021-05-17 08:00:00+00:00",
         "word": "新型コロナウイルス感染症"
     },
     "koka": {
@@ -51,7 +51,7 @@
     },
     "konan": {
         "url": "https://www.city.shiga-konan.lg.jp/cgi-bin/feed.php?siteNew=1&ignore=1",
-        "last": "2021-05-17 15:51:38+09:00",
+        "last": "2021-05-17 17:19:27+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "higashiomi": {
@@ -61,7 +61,7 @@
     },
     "omihachiman": {
         "url": "https://www.city.omihachiman.lg.jp/cgi-bin/feed.php",
-        "last": "2021-05-17 08:30:00+09:00",
+        "last": "2021-05-17 17:12:33+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "hino": {
@@ -111,7 +111,7 @@
     },
     "takashima": {
         "url": "http://www.city.takashima.lg.jp/www/rss/news.rdf",
-        "last": "2021-05-15 00:00:00+09:00",
+        "last": "2021-05-17 17:13:05+09:00",
         "word": "新型コロナウィルス感染症"
     }
 }
