@@ -1,7 +1,7 @@
 {
     "pref": {
         "url": "https://www.pref.shiga.lg.jp/file/rss/index.rss",
-        "last": "2021-05-21 17:15:00+09:00",
+        "last": "2021-05-21 18:11:00+09:00",
         "word": "新型コロナウイルス"
     },
     "pref_news": {
@@ -51,7 +51,7 @@
     },
     "konan": {
         "url": "https://www.city.shiga-konan.lg.jp/cgi-bin/feed.php?siteNew=1&ignore=1",
-        "last": "2021-05-21 09:41:35+09:00",
+        "last": "2021-05-21 20:40:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "higashiomi": {
@@ -71,7 +71,7 @@
     },
     "hikone": {
         "url": "https://www.city.hikone.lg.jp/cgi-bin/feed.php",
-        "last": "2021-05-21 17:21:04+09:00",
+        "last": "2021-05-21 20:57:46+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "aisho": {
