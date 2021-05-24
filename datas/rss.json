@@ -1,7 +1,7 @@
 {
     "pref": {
         "url": "https://www.pref.shiga.lg.jp/file/rss/index.rss",
-        "last": "2021-05-24 00:00:00+09:00",
+        "last": "2021-05-24 09:00:00+09:00",
         "word": "新型コロナウイルス"
     },
     "pref_news": {
@@ -11,7 +11,7 @@
     },
     "otsuE": {
         "url": "https://www.city.otsu.lg.jp/cgi-bin/feed.php?dirId=18&includeShortcut=1&ignore=1",
-        "last": "2021-05-21 13:20:00+09:00",
+        "last": "2021-05-24 09:18:21+09:00",
         "word": false
     },
     "otsuI": {
@@ -51,7 +51,7 @@
     },
     "konan": {
         "url": "https://www.city.shiga-konan.lg.jp/cgi-bin/feed.php?siteNew=1&ignore=1",
-        "last": "2021-05-23 09:00:00+09:00",
+        "last": "2021-05-24 09:00:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "higashiomi": {
@@ -61,7 +61,7 @@
     },
     "omihachiman": {
         "url": "https://www.city.omihachiman.lg.jp/cgi-bin/feed.php",
-        "last": "2021-05-22 08:04:46+09:00",
+        "last": "2021-05-24 08:30:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "hino": {
@@ -106,7 +106,7 @@
     },
     "maibara": {
         "url": "https://www.city.maibara.lg.jp/cgi-bin/feed.php?type=rss_2.0&siteNew=1",
-        "last": "2021-05-24 00:00:00+09:00",
+        "last": "2021-05-24 08:41:10+09:00",
         "word": "新型コロナウィルス感染症"
     },
     "takashima": {
