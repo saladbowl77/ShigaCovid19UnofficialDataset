@@ -41,7 +41,7 @@
     },
     "yasu": {
         "url": "https://www.city.yasu.lg.jp/feed.xml?type=rss_2.0&dirId=1031&includeShortcut=1&ignore=1",
-        "last": "2021-05-24 07:20:02+00:00",
+        "last": "2021-05-24 08:00:00+00:00",
         "word": "新型コロナウイルス感染症"
     },
     "koka": {
@@ -71,7 +71,7 @@
     },
     "hikone": {
         "url": "https://www.city.hikone.lg.jp/cgi-bin/feed.php",
-        "last": "2021-05-24 15:58:46+09:00",
+        "last": "2021-05-24 16:37:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "aisho": {
@@ -106,7 +106,7 @@
     },
     "maibara": {
         "url": "https://www.city.maibara.lg.jp/cgi-bin/feed.php?type=rss_2.0&siteNew=1",
-        "last": "2021-05-24 15:41:17+09:00",
+        "last": "2021-05-24 17:00:00+09:00",
         "word": "新型コロナウィルス感染症"
     },
     "takashima": {
