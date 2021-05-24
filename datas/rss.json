@@ -1,7 +1,7 @@
 {
     "pref": {
         "url": "https://www.pref.shiga.lg.jp/file/rss/index.rss",
-        "last": "2021-05-24 14:00:00+09:00",
+        "last": "2021-05-24 15:00:00+09:00",
         "word": "新型コロナウイルス"
     },
     "pref_news": {
@@ -76,7 +76,7 @@
     },
     "aisho": {
         "url": "https://www.town.aisho.shiga.jp/cgi-bin/feed.php",
-        "last": "2021-05-24 14:13:33+09:00",
+        "last": "2021-05-24 14:34:15+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "toyosato_emergency": {
@@ -111,7 +111,7 @@
     },
     "takashima": {
         "url": "http://www.city.takashima.lg.jp/www/rss/news.rdf",
-        "last": "2021-05-21 19:03:01+09:00",
+        "last": "2021-05-24 14:47:55+09:00",
         "word": "新型コロナウィルス感染症"
     }
 }
