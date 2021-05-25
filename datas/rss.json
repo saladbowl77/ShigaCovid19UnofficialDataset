@@ -11,7 +11,7 @@
     },
     "otsuE": {
         "url": "https://www.city.otsu.lg.jp/cgi-bin/feed.php?dirId=18&includeShortcut=1&ignore=1",
-        "last": "2021-05-24 09:18:21+09:00",
+        "last": "2021-05-25 10:29:54+09:00",
         "word": false
     },
     "otsuI": {
@@ -71,7 +71,7 @@
     },
     "hikone": {
         "url": "https://www.city.hikone.lg.jp/cgi-bin/feed.php",
-        "last": "2021-05-25 10:24:45+09:00",
+        "last": "2021-05-25 10:34:29+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "aisho": {
@@ -106,7 +106,7 @@
     },
     "maibara": {
         "url": "https://www.city.maibara.lg.jp/cgi-bin/feed.php?type=rss_2.0&siteNew=1",
-        "last": "2021-05-24 20:13:40+09:00",
+        "last": "2021-05-25 11:09:24+09:00",
         "word": "新型コロナウィルス感染症"
     },
     "takashima": {
