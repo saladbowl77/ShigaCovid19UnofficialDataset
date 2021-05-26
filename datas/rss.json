@@ -16,7 +16,7 @@
     },
     "otsuI": {
         "url": "https://www.city.otsu.lg.jp/cgi-bin/feed.php?dirId=19&includeShortcut=1&ignore=1",
-        "last": "2021-05-26 15:38:24+09:00",
+        "last": "2021-05-26 17:43:01+09:00",
         "word": false
     },
     "kusatu": {
@@ -61,7 +61,7 @@
     },
     "omihachiman": {
         "url": "https://www.city.omihachiman.lg.jp/cgi-bin/feed.php",
-        "last": "2021-05-26 09:00:00+09:00",
+        "last": "2021-05-26 18:28:53+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "hino": {
@@ -76,7 +76,7 @@
     },
     "aisho": {
         "url": "https://www.town.aisho.shiga.jp/cgi-bin/feed.php",
-        "last": "2021-05-26 16:08:21+09:00",
+        "last": "2021-05-26 17:36:35+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "toyosato_emergency": {
