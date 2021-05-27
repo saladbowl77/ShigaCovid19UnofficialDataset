@@ -71,12 +71,12 @@
     },
     "hikone": {
         "url": "https://www.city.hikone.lg.jp/cgi-bin/feed.php",
-        "last": "2021-05-27 10:00:00+09:00",
+        "last": "2021-05-27 13:22:10+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "aisho": {
         "url": "https://www.town.aisho.shiga.jp/cgi-bin/feed.php",
-        "last": "2021-05-27 09:15:25+09:00",
+        "last": "2021-05-27 13:19:07+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "toyosato_emergency": {
