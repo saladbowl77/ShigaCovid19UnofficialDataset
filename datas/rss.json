@@ -61,7 +61,7 @@
     },
     "omihachiman": {
         "url": "https://www.city.omihachiman.lg.jp/cgi-bin/feed.php",
-        "last": "2021-05-28 17:43:29+09:00",
+        "last": "2021-05-28 21:00:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "hino": {
@@ -111,7 +111,7 @@
     },
     "takashima": {
         "url": "http://www.city.takashima.lg.jp/www/rss/news.rdf",
-        "last": "2021-05-28 16:34:52+09:00",
+        "last": "2021-05-28 21:08:58+09:00",
         "word": "新型コロナウィルス感染症"
     }
 }
