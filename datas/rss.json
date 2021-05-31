@@ -46,7 +46,7 @@
     },
     "koka": {
         "url": "https://www.city.koka.lg.jp/services/rdf/rss10/1052.xml",
-        "last": "2021-05-30 20:00:00+09:00",
+        "last": "2021-05-31 09:31:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "konan": {
@@ -76,7 +76,7 @@
     },
     "aisho": {
         "url": "https://www.town.aisho.shiga.jp/cgi-bin/feed.php",
-        "last": "2021-05-29 18:00:00+09:00",
+        "last": "2021-05-31 10:47:34+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "toyosato_emergency": {
@@ -101,7 +101,7 @@
     },
     "taga_news": {
         "url": "https://www.town.taga.lg.jp/rss/rss_new.xml",
-        "last": "2021-05-25 09:59:54+09:00",
+        "last": "2021-05-29 08:30:00+09:00",
         "word": "新型コロナウィルス感染症"
     },
     "maibara": {
