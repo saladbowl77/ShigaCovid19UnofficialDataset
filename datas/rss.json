@@ -16,12 +16,12 @@
     },
     "otsuI": {
         "url": "https://www.city.otsu.lg.jp/cgi-bin/feed.php?dirId=19&includeShortcut=1&ignore=1",
-        "last": "2021-05-28 16:48:51+09:00",
+        "last": "2021-05-31 15:56:01+09:00",
         "word": false
     },
     "kusatu": {
         "url": "https://www.city.kusatsu.shiga.jp/rss_news.xml",
-        "last": "2021-05-31 03:00:00+00:00",
+        "last": "2021-05-31 06:00:00+00:00",
         "word": "http://www.city.kusatsu.shiga.jp/fukushikenko/hoken/kansenshou/"
     },
     "nagahama_emergency": {
@@ -66,7 +66,7 @@
     },
     "hino": {
         "url": "http://www.town.shiga-hino.lg.jp/rss/rss_new.xml",
-        "last": "2021-05-30 11:58:21+09:00",
+        "last": "2021-05-31 16:00:29+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "hikone": {
