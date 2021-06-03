@@ -66,17 +66,17 @@
     },
     "hino": {
         "url": "http://www.town.shiga-hino.lg.jp/rss/rss_new.xml",
-        "last": "2021-06-03 14:52:31+09:00",
+        "last": "2021-06-03 18:09:21+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "hikone": {
         "url": "https://www.city.hikone.lg.jp/cgi-bin/feed.php",
-        "last": "2021-06-03 14:12:42+09:00",
+        "last": "2021-06-03 17:00:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "aisho": {
         "url": "https://www.town.aisho.shiga.jp/cgi-bin/feed.php",
-        "last": "2021-06-03 17:15:00+09:00",
+        "last": "2021-06-03 18:03:06+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "toyosato_emergency": {
@@ -86,7 +86,7 @@
     },
     "toyosato_news": {
         "url": "https://www.town.toyosato.shiga.jp/rss/rss_topics.xml",
-        "last": "2021-06-03 14:47:12+09:00",
+        "last": "2021-06-03 18:00:00+09:00",
         "word": "新型コロナウィルス感染症"
     },
     "koura": {
