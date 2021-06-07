@@ -16,7 +16,7 @@
     },
     "otsuI": {
         "url": "https://www.city.otsu.lg.jp/cgi-bin/feed.php?dirId=19&includeShortcut=1&ignore=1",
-        "last": "2021-06-01 10:38:22+09:00",
+        "last": "2021-06-07 13:34:25+09:00",
         "word": false
     },
     "kusatu": {
@@ -31,7 +31,7 @@
     },
     "nagahama_news": {
         "url": "https://www.city.nagahama.lg.jp/rss/rss_new.xml",
-        "last": "2021-06-07 09:00:00+09:00",
+        "last": "2021-06-07 13:26:13+09:00",
         "word": "新型コロナウィルス感染症"
     },
     "ritto": {
@@ -76,7 +76,7 @@
     },
     "aisho": {
         "url": "https://www.town.aisho.shiga.jp/cgi-bin/feed.php",
-        "last": "2021-06-07 02:00:00+09:00",
+        "last": "2021-06-07 14:00:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "toyosato_emergency": {
