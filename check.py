@@ -13,7 +13,7 @@ import tweepy
 
 from dateutil.parser import parse
 
-checkUrl = ""
+checkUrl = "ほげ"
 
 feed = feedparser.parse(checkUrl, response_headers={"content-type": "text/xml; charset=utf-8"})
 

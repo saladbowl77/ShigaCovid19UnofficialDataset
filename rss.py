@@ -22,6 +22,7 @@ consumer_key = getenv("TWITTER_API_KEY")
 consumer_secret= getenv("TWITTER_API_SECRET")
 access_key = getenv("TWITTER_ACCESS_TOKEN")
 access_secret = getenv("TWITTER_ACCESS_TOKEN_SECRET")
+line_token = getenv("LINE_TOKEN")
 
 JST = timezone(timedelta(hours=+9), 'JST')
 
@@ -55,7 +56,14 @@ def tweetNewRss(rss,rssDate,cityNameEN):
         "nagahama_news":"長浜市",
         "takashima":"高島市"
     }
+
     tweetText = cityName[cityNameEN] + "からのお知らせ\n" + rss.title + '\n' + rss.link + '\n サイト更新日 : ' + rssDate.strftime('%Y年%m月%d日 %H時%M分')
+
+    line_notify_api = 'https://notify-api.line.me/api/notify'
+    headers = {'Authorization': f'Bearer {line_token}'}
+    data = {'message': f'message: {tweetText}'}
+    requests.post(line_notify_api, headers = headers, data = data)
+
     print(tweetText)
     api.update_status(tweetText)
 
