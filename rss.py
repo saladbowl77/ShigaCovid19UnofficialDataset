@@ -59,11 +59,6 @@ def tweetNewRss(rss,rssDate,cityNameEN):
 
     tweetText = cityName[cityNameEN] + "からのお知らせ\n" + rss.title + '\n' + rss.link + '\n サイト更新日 : ' + rssDate.strftime('%Y年%m月%d日 %H時%M分')
 
-    line_notify_api = 'https://notify-api.line.me/api/notify'
-    headers = {'Authorization': f'Bearer {line_token}'}
-    data = {'message': f'message: {tweetText}'}
-    requests.post(line_notify_api, headers = headers, data = data)
-
     print(tweetText)
     api.update_status(tweetText)
 
@@ -107,6 +102,11 @@ for name in rssArr1:
                 cityJsonCovid.append({"title":rss.title,"link":rss.link,"date":str(rssDate)})
             cityJsonAll.append({"title":rss.title,"link":rss.link,"date":str(rssDate)})
             jsonData[name]['last'] = str(rssDate)
+            
+            line_notify_api = 'https://notify-api.line.me/api/notify'
+            headers = {'Authorization': f'Bearer {line_token}'}
+            data = {'message': f'\n{cityName[cityNameEN]}からのお知らせ\n{rss.title}\n{rss.link}\n サイト更新日 : {rssDate.strftime('%Y年%m月%d日 %H時%M分')}'}
+            requests.post(line_notify_api, headers = headers, data = data)
         
     with open(cityJsonPathAll, "w") as f:
         json.dump(cityJsonAll, f, indent=4, ensure_ascii=False)
