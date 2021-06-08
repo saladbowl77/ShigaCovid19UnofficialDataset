@@ -88,10 +88,10 @@ def lineRSS(rss,rssDate,cityNameEN):
         "nagahama_news":"長浜市",
         "takashima":"高島市"
     }
-    
+
     line_notify_api = 'https://notify-api.line.me/api/notify'
     headers = {'Authorization': f'Bearer {line_token}'}
-    data = {'message': f'\n{cityName[cityNameEN]}からのお知らせ\n{rss.title}\n{rss.link}\n サイト更新日 : {rssDate.strftime('%Y年%m月%d日 %H時%M分')}'}
+    data = {'message': f'\n{cityName[cityNameEN]}からのお知らせ\n{rss.title}\n{rss.link}\n サイト更新日 : {rssDate.strftime("%Y年%m月%d日 %H時%M分")}'}
     requests.post(line_notify_api, headers = headers, data = data)
 
 #rssのJson取得
