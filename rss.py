@@ -62,6 +62,38 @@ def tweetNewRss(rss,rssDate,cityNameEN):
     print(tweetText)
     api.update_status(tweetText)
 
+def lineRSS(rss,rssDate,cityNameEN):
+    cityName = {
+        "pref":"滋賀県",
+        "pref_news":"滋賀県",
+        "otsuE":"大津市",
+        "otsuI":"大津市",
+        "kusatu":"草津市",
+        "ritto":"栗東市",
+        "yasu":"野洲市",
+        "koka":"甲賀市",
+        "konan":"湖南市",
+        "higashiomi":"東近江市",
+        "omihachiman":"近江八幡市",
+        "hino":"日野町",
+        "hikone":"彦根市",
+        "aisho":"愛荘町",
+        "toyosato_emergency":"豊郷町",
+        "toyosato_news":"豊郷町",
+        "koura":"甲良町",
+        "taga_emergency":"多賀町",
+        "taga_news":"多賀町",
+        "maibara":"米原市",
+        "nagahama_emergency":"長浜市",
+        "nagahama_news":"長浜市",
+        "takashima":"高島市"
+    }
+    
+    line_notify_api = 'https://notify-api.line.me/api/notify'
+    headers = {'Authorization': f'Bearer {line_token}'}
+    data = {'message': f'\n{cityName[cityNameEN]}からのお知らせ\n{rss.title}\n{rss.link}\n サイト更新日 : {rssDate.strftime('%Y年%m月%d日 %H時%M分')}'}
+    requests.post(line_notify_api, headers = headers, data = data)
+
 #rssのJson取得
 JsonPath = join(dirname(__file__), "datas/rss.json")
 with open(JsonPath) as f:
@@ -102,11 +134,7 @@ for name in rssArr1:
                 cityJsonCovid.append({"title":rss.title,"link":rss.link,"date":str(rssDate)})
             cityJsonAll.append({"title":rss.title,"link":rss.link,"date":str(rssDate)})
             jsonData[name]['last'] = str(rssDate)
-            
-            #line_notify_api = 'https://notify-api.line.me/api/notify'
-            #headers = {'Authorization': f'Bearer {line_token}'}
-            #data = {'message': f'\n{cityName[cityNameEN]}からのお知らせ\n{rss.title}\n{rss.link}\n サイト更新日 : {rssDate.strftime('%Y年%m月%d日 %H時%M分')}'}
-            #requests.post(line_notify_api, headers = headers, data = data)
+            lineRSS(rss,rssDate,name)
         
     with open(cityJsonPathAll, "w") as f:
         json.dump(cityJsonAll, f, indent=4, ensure_ascii=False)
