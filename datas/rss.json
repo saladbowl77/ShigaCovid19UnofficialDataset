@@ -46,7 +46,7 @@
     },
     "koka": {
         "url": "https://www.city.koka.lg.jp/services/rdf/rss10/1052.xml",
-        "last": "2021-06-10 19:00:00+09:00",
+        "last": "2021-06-10 21:22:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "konan": {
@@ -111,7 +111,7 @@
     },
     "takashima": {
         "url": "http://www.city.takashima.lg.jp/www/rss/news.rdf",
-        "last": "2021-06-09 21:01:41+09:00",
+        "last": "2021-06-10 20:19:45+09:00",
         "word": "新型コロナウィルス感染症"
     }
 }
