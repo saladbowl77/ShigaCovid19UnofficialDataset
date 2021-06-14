@@ -1,7 +1,7 @@
 {
     "pref": {
         "url": "https://www.pref.shiga.lg.jp/file/rss/index.rss",
-        "last": "2021-06-14 15:00:00+09:00",
+        "last": "2021-06-15 00:00:00+09:00",
         "word": "新型コロナウイルス"
     },
     "pref_news": {
@@ -71,7 +71,7 @@
     },
     "hikone": {
         "url": "https://www.city.hikone.lg.jp/cgi-bin/feed.php",
-        "last": "2021-06-14 12:00:00+09:00",
+        "last": "2021-06-15 00:00:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "aisho": {
@@ -111,7 +111,7 @@
     },
     "takashima": {
         "url": "http://www.city.takashima.lg.jp/www/rss/news.rdf",
-        "last": "2021-06-14 20:02:03+09:00",
+        "last": "2021-06-15 00:01:10+09:00",
         "word": "新型コロナウィルス感染症"
     }
 }
