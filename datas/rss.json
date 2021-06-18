@@ -46,7 +46,7 @@
     },
     "koka": {
         "url": "https://www.city.koka.lg.jp/services/rdf/rss10/1052.xml",
-        "last": "2021-06-18 14:47:00+09:00",
+        "last": "2021-06-18 15:53:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "konan": {
@@ -61,7 +61,7 @@
     },
     "omihachiman": {
         "url": "https://www.city.omihachiman.lg.jp/cgi-bin/feed.php",
-        "last": "2021-06-18 10:26:01+09:00",
+        "last": "2021-06-18 15:38:48+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "hino": {
@@ -71,12 +71,12 @@
     },
     "hikone": {
         "url": "https://www.city.hikone.lg.jp/cgi-bin/feed.php",
-        "last": "2021-06-18 13:36:30+09:00",
+        "last": "2021-06-18 15:30:12+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "aisho": {
         "url": "https://www.town.aisho.shiga.jp/cgi-bin/feed.php",
-        "last": "2021-06-18 14:55:45+09:00",
+        "last": "2021-06-18 16:00:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "toyosato_emergency": {
