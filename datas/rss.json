@@ -1,7 +1,7 @@
 {
     "pref": {
         "url": "https://www.pref.shiga.lg.jp/file/rss/index.rss",
-        "last": "2021-06-23 10:00:00+09:00",
+        "last": "2021-06-23 12:00:00+09:00",
         "word": "新型コロナウイルス"
     },
     "pref_news": {
@@ -46,7 +46,7 @@
     },
     "koka": {
         "url": "https://www.city.koka.lg.jp/services/rdf/rss10/1052.xml",
-        "last": "2021-06-22 12:00:00+09:00",
+        "last": "2021-06-23 11:38:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "konan": {
