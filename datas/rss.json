@@ -1,12 +1,12 @@
 {
     "pref": {
         "url": "https://www.pref.shiga.lg.jp/file/rss/index.rss",
-        "last": "2021-06-22 14:06:00+09:00",
+        "last": "2021-06-23 09:00:00+09:00",
         "word": "新型コロナウイルス"
     },
     "pref_news": {
         "url": "https://www.pref.shiga.lg.jp/file/rss/kensei_koho_e-shinbun_oshirase_index.rss",
-        "last": "2021-06-22 16:30:00+09:00",
+        "last": "2021-06-23 09:00:00+09:00",
         "word": "新型コロナウイルス"
     },
     "otsuE": {
@@ -31,7 +31,7 @@
     },
     "nagahama_news": {
         "url": "https://www.city.nagahama.lg.jp/rss/rss_new.xml",
-        "last": "2021-06-23 08:00:00+09:00",
+        "last": "2021-06-23 08:40:05+09:00",
         "word": "新型コロナウィルス感染症"
     },
     "ritto": {
@@ -61,7 +61,7 @@
     },
     "omihachiman": {
         "url": "https://www.city.omihachiman.lg.jp/cgi-bin/feed.php",
-        "last": "2021-06-22 17:05:45+09:00",
+        "last": "2021-06-23 08:30:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "hino": {
@@ -76,7 +76,7 @@
     },
     "aisho": {
         "url": "https://www.town.aisho.shiga.jp/cgi-bin/feed.php",
-        "last": "2021-06-22 17:21:54+09:00",
+        "last": "2021-06-23 08:00:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "toyosato_emergency": {
@@ -111,7 +111,7 @@
     },
     "takashima": {
         "url": "http://www.city.takashima.lg.jp/www/rss/news.rdf",
-        "last": "2021-06-22 19:47:08+09:00",
+        "last": "2021-06-23 08:28:13+09:00",
         "word": "新型コロナウィルス感染症"
     }
 }
