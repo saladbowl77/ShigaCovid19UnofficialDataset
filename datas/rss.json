@@ -31,7 +31,7 @@
     },
     "nagahama_news": {
         "url": "https://www.city.nagahama.lg.jp/rss/rss_new.xml",
-        "last": "2021-06-24 23:00:00+09:00",
+        "last": "2021-06-25 00:00:01+09:00",
         "word": "新型コロナウィルス感染症"
     },
     "ritto": {
@@ -56,12 +56,12 @@
     },
     "higashiomi": {
         "url": "https://www.city.higashiomi.shiga.jp/rss/rss_new.xml",
-        "last": "2021-06-24 17:00:00+09:00",
+        "last": "2021-06-25 00:00:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "omihachiman": {
         "url": "https://www.city.omihachiman.lg.jp/cgi-bin/feed.php",
-        "last": "2021-06-24 16:23:43+09:00",
+        "last": "2021-06-25 00:00:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "hino": {
