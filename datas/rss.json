@@ -21,7 +21,7 @@
     },
     "kusatu": {
         "url": "https://www.city.kusatsu.shiga.jp/rss_news.xml",
-        "last": "2021-06-24 07:00:00+00:00",
+        "last": "2021-06-24 08:00:00+00:00",
         "word": "http://www.city.kusatsu.shiga.jp/fukushikenko/hoken/kansenshou/"
     },
     "nagahama_emergency": {
@@ -51,7 +51,7 @@
     },
     "konan": {
         "url": "https://www.city.shiga-konan.lg.jp/cgi-bin/feed.php?siteNew=1&ignore=1",
-        "last": "2021-06-22 09:02:09+09:00",
+        "last": "2021-06-24 17:00:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "higashiomi": {
@@ -71,7 +71,7 @@
     },
     "hikone": {
         "url": "https://www.city.hikone.lg.jp/cgi-bin/feed.php",
-        "last": "2021-06-24 14:35:00+09:00",
+        "last": "2021-06-24 17:45:38+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "aisho": {
@@ -91,7 +91,7 @@
     },
     "koura": {
         "url": "http://www.kouratown.jp/feed.xml?type=rss_2.0&new1=1",
-        "last": "2021-06-23 23:30:00+00:00",
+        "last": "2021-06-24 09:20:28+00:00",
         "word": "新型コロナウィルス感染症"
     },
     "taga_emergency": {
@@ -106,12 +106,12 @@
     },
     "maibara": {
         "url": "https://www.city.maibara.lg.jp/cgi-bin/feed.php?type=rss_2.0&siteNew=1",
-        "last": "2021-06-24 08:30:00+09:00",
+        "last": "2021-06-24 18:02:47+09:00",
         "word": "新型コロナウィルス感染症"
     },
     "takashima": {
         "url": "http://www.city.takashima.lg.jp/www/rss/news.rdf",
-        "last": "2021-06-24 09:35:31+09:00",
+        "last": "2021-06-24 18:15:31+09:00",
         "word": "新型コロナウィルス感染症"
     }
 }
