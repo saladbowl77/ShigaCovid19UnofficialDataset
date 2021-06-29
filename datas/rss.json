@@ -91,7 +91,7 @@
     },
     "koura": {
         "url": "http://www.kouratown.jp/feed.xml?type=rss_2.0&new1=1",
-        "last": "2021-06-24 15:00:00+00:00",
+        "last": "2021-06-29 10:19:22+00:00",
         "word": "新型コロナウィルス感染症"
     },
     "taga_emergency": {
@@ -111,7 +111,7 @@
     },
     "takashima": {
         "url": "http://www.city.takashima.lg.jp/www/rss/news.rdf",
-        "last": "2021-06-28 20:57:57+09:00",
+        "last": "2021-06-29 19:06:07+09:00",
         "word": "新型コロナウィルス感染症"
     }
 }
