@@ -31,7 +31,7 @@
     },
     "nagahama_news": {
         "url": "https://www.city.nagahama.lg.jp/rss/rss_new.xml",
-        "last": "2021-06-29 17:00:00+09:00",
+        "last": "2021-06-30 12:00:00+09:00",
         "word": "新型コロナウィルス感染症"
     },
     "ritto": {
@@ -71,7 +71,7 @@
     },
     "hikone": {
         "url": "https://www.city.hikone.lg.jp/cgi-bin/feed.php",
-        "last": "2021-06-29 19:00:00+09:00",
+        "last": "2021-06-30 13:20:52+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "aisho": {
