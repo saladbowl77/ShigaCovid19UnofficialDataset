@@ -1,7 +1,7 @@
 {
     "pref": {
         "url": "https://www.pref.shiga.lg.jp/file/rss/index.rss",
-        "last": "2021-06-29 15:27:00+09:00",
+        "last": "2021-06-30 09:00:00+09:00",
         "word": "新型コロナウイルス"
     },
     "pref_news": {
@@ -56,12 +56,12 @@
     },
     "higashiomi": {
         "url": "https://www.city.higashiomi.shiga.jp/rss/rss_new.xml",
-        "last": "2021-06-29 15:21:43+09:00",
+        "last": "2021-06-30 09:00:01+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "omihachiman": {
         "url": "https://www.city.omihachiman.lg.jp/cgi-bin/feed.php",
-        "last": "2021-06-29 17:29:10+09:00",
+        "last": "2021-06-30 08:30:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "hino": {
