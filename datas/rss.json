@@ -1,12 +1,12 @@
 {
     "pref": {
         "url": "https://www.pref.shiga.lg.jp/file/rss/index.rss",
-        "last": "2021-07-01 15:00:00+09:00",
+        "last": "2021-07-01 17:00:00+09:00",
         "word": "新型コロナウイルス"
     },
     "pref_news": {
         "url": "https://www.pref.shiga.lg.jp/file/rss/kensei_koho_e-shinbun_oshirase_index.rss",
-        "last": "2021-07-01 15:00:00+09:00",
+        "last": "2021-07-01 16:04:00+09:00",
         "word": "新型コロナウイルス"
     },
     "otsuE": {
@@ -41,12 +41,12 @@
     },
     "yasu": {
         "url": "https://www.city.yasu.lg.jp/feed.xml?type=rss_2.0&dirId=1031&includeShortcut=1&ignore=1",
-        "last": "2021-07-01 04:00:00+00:00",
+        "last": "2021-07-01 08:00:00+00:00",
         "word": "新型コロナウイルス感染症"
     },
     "koka": {
         "url": "https://www.city.koka.lg.jp/services/rdf/rss10/1052.xml",
-        "last": "2021-07-01 14:06:00+09:00",
+        "last": "2021-07-01 17:00:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "konan": {
@@ -61,7 +61,7 @@
     },
     "omihachiman": {
         "url": "https://www.city.omihachiman.lg.jp/cgi-bin/feed.php",
-        "last": "2021-07-01 16:20:25+09:00",
+        "last": "2021-07-01 16:49:35+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "hino": {
