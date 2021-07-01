@@ -66,7 +66,7 @@
     },
     "hino": {
         "url": "http://www.town.shiga-hino.lg.jp/rss/rss_new.xml",
-        "last": "2021-07-01 09:00:00+09:00",
+        "last": "2021-07-01 19:38:50+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "hikone": {
@@ -106,12 +106,12 @@
     },
     "maibara": {
         "url": "https://www.city.maibara.lg.jp/cgi-bin/feed.php?type=rss_2.0&siteNew=1",
-        "last": "2021-07-01 18:44:38+09:00",
+        "last": "2021-07-01 20:29:50+09:00",
         "word": "新型コロナウィルス感染症"
     },
     "takashima": {
         "url": "http://www.city.takashima.lg.jp/www/rss/news.rdf",
-        "last": "2021-07-01 00:00:59+09:00",
+        "last": "2021-07-01 20:11:45+09:00",
         "word": "新型コロナウィルス感染症"
     }
 }
