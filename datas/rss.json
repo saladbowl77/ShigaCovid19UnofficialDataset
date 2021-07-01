@@ -1,12 +1,12 @@
 {
     "pref": {
         "url": "https://www.pref.shiga.lg.jp/file/rss/index.rss",
-        "last": "2021-07-01 14:00:00+09:00",
+        "last": "2021-07-01 15:00:00+09:00",
         "word": "新型コロナウイルス"
     },
     "pref_news": {
         "url": "https://www.pref.shiga.lg.jp/file/rss/kensei_koho_e-shinbun_oshirase_index.rss",
-        "last": "2021-07-01 14:00:00+09:00",
+        "last": "2021-07-01 15:00:00+09:00",
         "word": "新型コロナウイルス"
     },
     "otsuE": {
@@ -31,7 +31,7 @@
     },
     "nagahama_news": {
         "url": "https://www.city.nagahama.lg.jp/rss/rss_new.xml",
-        "last": "2021-07-01 09:00:00+09:00",
+        "last": "2021-07-01 14:49:07+09:00",
         "word": "新型コロナウィルス感染症"
     },
     "ritto": {
@@ -46,7 +46,7 @@
     },
     "koka": {
         "url": "https://www.city.koka.lg.jp/services/rdf/rss10/1052.xml",
-        "last": "2021-07-01 12:00:00+09:00",
+        "last": "2021-07-01 14:00:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "konan": {
@@ -71,12 +71,12 @@
     },
     "hikone": {
         "url": "https://www.city.hikone.lg.jp/cgi-bin/feed.php",
-        "last": "2021-07-01 11:07:22+09:00",
+        "last": "2021-07-01 15:22:35+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "aisho": {
         "url": "https://www.town.aisho.shiga.jp/cgi-bin/feed.php",
-        "last": "2021-07-01 11:47:26+09:00",
+        "last": "2021-07-01 14:45:39+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "toyosato_emergency": {
