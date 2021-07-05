@@ -106,12 +106,12 @@
     },
     "maibara": {
         "url": "https://www.city.maibara.lg.jp/cgi-bin/feed.php?type=rss_2.0&siteNew=1",
-        "last": "2021-07-05 19:26:51+09:00",
+        "last": "2021-07-05 19:35:43+09:00",
         "word": "新型コロナウィルス感染症"
     },
     "takashima": {
         "url": "http://www.city.takashima.lg.jp/www/rss/news.rdf",
-        "last": "2021-07-05 09:14:03+09:00",
+        "last": "2021-07-05 19:49:11+09:00",
         "word": "新型コロナウィルス感染症"
     }
 }
