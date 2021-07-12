@@ -16,7 +16,7 @@
     },
     "otsuI": {
         "url": "https://www.city.otsu.lg.jp/cgi-bin/feed.php?dirId=19&includeShortcut=1&ignore=1",
-        "last": "2021-07-09 19:42:22+09:00",
+        "last": "2021-07-12 09:25:17+09:00",
         "word": false
     },
     "kusatu": {
@@ -31,7 +31,7 @@
     },
     "nagahama_news": {
         "url": "https://www.city.nagahama.lg.jp/rss/rss_new.xml",
-        "last": "2021-07-09 16:02:26+09:00",
+        "last": "2021-07-12 09:00:00+09:00",
         "word": "新型コロナウィルス感染症"
     },
     "ritto": {
@@ -71,7 +71,7 @@
     },
     "hikone": {
         "url": "https://www.city.hikone.lg.jp/cgi-bin/feed.php",
-        "last": "2021-07-09 17:15:00+09:00",
+        "last": "2021-07-12 08:30:00+09:00",
         "word": "新型コロナウイルス感染症"
     },
     "aisho": {
@@ -86,7 +86,7 @@
     },
     "toyosato_news": {
         "url": "https://www.town.toyosato.shiga.jp/rss/rss_topics.xml",
-        "last": "2021-07-09 15:44:12+09:00",
+        "last": "2021-07-12 09:01:21+09:00",
         "word": "新型コロナウィルス感染症"
     },
     "koura": {
@@ -106,7 +106,7 @@
     },
     "maibara": {
         "url": "https://www.city.maibara.lg.jp/cgi-bin/feed.php?type=rss_2.0&siteNew=1",
-        "last": "2021-07-09 00:00:00+09:00",
+        "last": "2021-07-12 09:00:00+09:00",
         "word": "新型コロナウィルス感染症"
     },
     "takashima": {
