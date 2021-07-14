@@ -88,10 +88,10 @@ def lineRSS(rss,rssDate,cityNameEN):
         "nagahama_news":"長浜市",
         "takashima":"高島市"
     }
-
+    
     line_notify_api = 'https://notify-api.line.me/api/notify'
     headers = {'Authorization': f'Bearer {line_token}'}
-    data = {'message': f'\n{cityName[cityNameEN]}からのお知らせ\n{rss.title}\n{rss.link}\n サイト更新日 : {rssDate.strftime("%Y年%m月%d日 %H時%M分")}'}
+    data = {'message': f'\n{cityName[cityNameEN]}からのお知らせ\n{rss.title}\n{rss.link}\n サイト更新日 : {rssDate.strftime('%Y年%m月%d日 %H時%M分')}'}
     requests.post(line_notify_api, headers = headers, data = data)
 
 #rssのJson取得
@@ -124,13 +124,13 @@ for name in rssArr1:
         if nowDate > rssDate > lastDate:
             if jsonData[name]['word']:
                 if jsonData[name]['word'][:4] == "http" and jsonData[name]['word'] in rss.link:
-                    tweetNewRss(rss,rssDate,name)
+                    #tweetNewRss(rss,rssDate,name)
                     cityJsonCovid.append({"title":rss.title,"link":rss.link,"date":str(rssDate)})
                 elif jsonData[name]['word'] in rss.title:
-                    tweetNewRss(rss,rssDate,name)
+                    #tweetNewRss(rss,rssDate,name)
                     cityJsonCovid.append({"title":rss.title,"link":rss.link,"date":str(rssDate)})
             else:
-                tweetNewRss(rss,rssDate,name)
+                #tweetNewRss(rss,rssDate,name)
                 cityJsonCovid.append({"title":rss.title,"link":rss.link,"date":str(rssDate)})
             cityJsonAll.append({"title":rss.title,"link":rss.link,"date":str(rssDate)})
             jsonData[name]['last'] = str(rssDate)
